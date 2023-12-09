@@ -27,3 +27,4 @@ pip  install  -r  requirements.txt
 
 ## Método de trabajo 
 
+RAMA MAIN LA MAS IMPORTANTE 
