@@ -1,0 +1,925 @@
+﻿"companyDetails/careerOpportunitiesRating","companyDetails/ceoName","companyDetails/ceoName/__typename","companyDetails/ceoName/name","companyDetails/ceoName/photoUrl","companyDetails/companyRating","companyDetails/compensationAndBenefitsRating","companyDetails/cultureAndValuesRating","companyDetails/headquarters","companyDetails/industry","companyDetails/industry/__typename","companyDetails/industry/industryId","companyDetails/industry/industryName","companyDetails/industry/sectorName","companyDetails/logo","companyDetails/name","companyDetails/revenue","companyDetails/sector","companyDetails/size","companyDetails/type","companyDetails/website","companyDetails/workLifeBalanceRating","companyDetails/yearFounded","datePosted","employerName","employerRating","id","jobDetails","jobLocation","jobTitle","salary/currency","salary/max","salary/min","salary/payPeriod","salary/source","url"
+,,"Ceo","José Antonio Alvarez","https://media.glassdoor.com/people/sql/828048/santander-bank-ceo1500487622058.png",,,,"Boston, MA",,"EmployerIndustry","200048","Banking & Lending","Financial Services","https://media.glassdoor.com/sql/828048/santander-squareLogo-1664207814812.png","Santander","$500 million to $1 billion (USD)","Financial Services","5001 to 10000 Employees","Company - Private","www.santandercareers.com",,"1856","2022-12-02T00:00:00.000Z","Santander","3.9","1008323193049","Client Data Analytics & Models Analyst
+Country: Spain
+WHAT YOU WILL BE DOING
+Client Data analysts need to have advanced knowledge of the execution tasks they perform, and propose improvements to processes whenever possible.Show more  Report","Boadilla del Monte","Client Data Analytics & Models Analyst","EUR",,,,,"https://www.glassdoor.com/job-listing/client-data-analytics-models-analyst-santander-JV_IC2664431_KO0,36_KE37,46.htm?jl=1008323193049&pos=101&ao=1136043&s=58&guid=000001861f1c5df0ad854b838313ed58&src=GD_JOB_AD&t=SR&vt=w&cs=1_85012c59&cb=1675559198457&jobListingId=1008323193049&jrtk=3-0-1gofhongk2ea3001-1gofhonh8ia1a800-c293bc40500bdc96-&ctt=1675559201410"
+,,"Ceo","José Antonio Alvarez","https://media.glassdoor.com/people/sql/828048/santander-bank-ceo1500487622058.png",,,,"Boston, MA",,"EmployerIndustry","200048","Banking & Lending","Financial Services","https://media.glassdoor.com/sql/828048/santander-squareLogo-1664207814812.png","Santander","$500 million to $1 billion (USD)","Financial Services","5001 to 10000 Employees","Company - Private","www.santandercareers.com",,"1856","2023-01-23T00:00:00.000Z","Santander","3.9","1008424216348","Pricing Data Analytics & Models Analyst
+Country: Spain
+WHAT YOU WILL BE DOING
+RIESGOS (INTERNAL VALIDATION TEAM) está buscando un/a PRICING DATA ANALYTICS & MODELS ANALYST para nuestras oficinas en BOADILLA DEL MONTE (HEADQUARTERS)
+POR QUÉ DEBERÍAS CONSIDERAR ESTA OPORTUNIDAD
+En Santander ( www.santander.com ) somos actores principales en la transformación del sector financiero. ¿Quieres unirte a nuestro equipo?
+Riesgo de crédito, Riesgo de tipos de interés, Riesgo de liquidez, Riesgo operacional, Riesgo reputacional... Hay mucho tipos de riesgos, por ello su análisis y quantificación es clave para nuestro propósito de ser un banco, Simple, Personal y Justo.
+Trabajar en riesgos significa hacerlo desde una perspectiva de gestión que contribuya al progreso sostenible de las personas y las empresas. Adoptamos una sólida cultura de riesgos y esperamos que todos nuestros profesionales, independientemente del puesto que ocupen, tengan una actitud proactiva y responsable hacia la gestión de riesgos.
+Santander se enorgullece de ser una organización donde hay igualdad de oportunidades, independientemente de raza, sexo, religión, edad, orientación sexual, estado civil discapacidad, nacionalidad o identidad de género.
+QUÉ HARÁS EN TU TRABAJO
+Como Pricing Data Analytics & Models Analyst tu objetivo será realizar revisiones (validaciones) independientes de los modelos que se usan en el Banco para la valoración de derivados incluyendo, además de los propios modelos de valoración, los modelos involucrados en la construcción de inputs de mercado, modelos de ajusta de valoración (VA) y modelos de sensibilidades.
+Necesitamos a alguien como tú para que nos ayude en distintos ámbitos:
+Llevar a cabo análisis críticos e informados para entender los modelos: sus hipótesis y su impacto en las principales métricas de valoración y sensibilidades.
+Desarrollar modelos independientes y diseñar pruebas de adecuación de las hipótesis teóricas subyacentes, con el fin de establecer un cuestionamiento efectivo de los modelos que el banco utiliza en producción.
+Evaluar la implementación de los modelos validados en los sistemas de producción.
+Ser capaz de formarse una opinión independiente sobre la idoneidad de los modelos validados para el uso al que se destinan, y de comunicarla de forma efectiva a diferentes partes interesadas, tanto internas como externas.
+Producir documentación de calidad que refleje los análisis realizados a los modelos validados.
+Establecer y fomentar una relación continua y fluida con los diferentes intervinientes en la gestión del Riesgo de Modelo: Trading, Quants de Front Office, Riesgos de Mercado, Metodología, etc
+EXPERIENCIA
+No es necesaria experiencia previa al tratarse de un puesto junior, aunque se valorará en caso de aportarla el candidato.
+EDUCACIÓN
+Matemáticas, Física, Ingeniería o Titulación con alto componente matemático/cuantitativo.
+Se valorarán estudios de doctorado y/o formación complementaria tipo Máster en Gestión de Riesgos, Finanzas Cuantitativas o Data Science.
+HABILIDADES & CONOCIMIENTOS
+Competencia plena demostrable en matemáticas (cálculo diferencial e integral, análisis numérico, deseable teoría de EDOs, EDPs y/o cálculo estocástico).
+Conocimiento de lenguajes de programación (Python, Matlab, C/C++).
+Deseable conocimiento de sistemas de control de versiones (Git o similares).
+Deseable conocimiento de entorno de documentación LaTeX.
+Si quieres conocer más sobre nosotros, síguenos en https://es.linkedin.com/company/banco-santander y https://www.betechwithsantander.com/en/homeShow more  Report","Boadilla del Monte","Pricing Data Analytics & Models Analyst","EUR",,,,,"https://www.glassdoor.com/job-listing/pricing-data-analytics-models-analyst-santander-JV_IC2664431_KO0,37_KE38,47.htm?jl=1008424216348&pos=102&ao=1136043&s=58&guid=000001861f1c5df0ad854b838313ed58&src=GD_JOB_AD&t=SR&vt=w&cs=1_f09dc32d&cb=1675559198457&jobListingId=1008424216348&jrtk=3-0-1gofhongk2ea3001-1gofhonh8ia1a800-890534cf67ae18e7-&ctt=1675559201648"
+,,"Ceo","Mark Rogers",,,,,"Maidenhead, United Kingdom",,"EmployerIndustry","200064","Information Technology Support Services","Information Technology","https://media.glassdoor.com/sql/30518/logicalis-squarelogo-1576657580905.png","Logicalis","$1 to $5 billion (USD)","Information Technology","1001 to 5000 Employees","Company - Private","www.logicalis.com",,"1988","2023-02-02T00:00:00.000Z","Logicalis","4","1008447316644","Job Description
+En Logicalis Spain queremos incorporar a un Data Analyst para incorporarse dentro de nuestra BU de Data & Analytics.
+Requisitos:
+3-6 años de experiencia en PBI con fuertes conocimientos en SQL.
+Experiencia demostrable en modelado de BD.
+Conocimientos senior en SQL /Query).
+Nivel de Inglés B2.
+Beneficios y ventajas:
+Formarás parte de una empresa certificada como Great Place to Work (GPTW) donde apostamos por la ambición tecnológica, el desarrollo y el talento profesional.
+Flexibilidad laboral.
+Modalidad de trabajo: Teletrabajo
+Horario de oficina con viernes y verano intensiva.
+Formaciones y Certificaciones a medida.
+Clases de Idiomas.
+Plataforma de descuentos.
+Seguro médico.
+Gympass.
+Posibilidad de acogerse a planes de remuneración flexible (tarjeta restaurante, tarjeta transporte, tickets guardería…).
+Share With:
+Job Snapshot
+Employee Type:
+Full-Time
+Location:
+Madrid
+Job Type:
+Other
+Experience:
+Not Specified
+Date Posted:
+2/2/2023Show more  Report","Madrid","Data Analyst","EUR",,,,,"https://www.glassdoor.com/job-listing/data-analyst-logicalis-JV_IC2664239_KO0,12_KE13,22.htm?jl=1008447316644&pos=103&ao=1136043&s=58&guid=000001861f1c5df0ad854b838313ed58&src=GD_JOB_AD&t=SR&vt=w&cs=1_733a72c8&cb=1675559198457&jobListingId=1008447316644&jrtk=3-0-1gofhongk2ea3001-1gofhonh8ia1a800-f5e72078d2192b59-&ctt=1675559202722"
+,,"Ceo","Onur Genç","https://media.glassdoor.com/people/sql/1237/bbva-ceo1561391102945.png",,,,"Bilbao, Spain",,"EmployerIndustry","200048","Banking & Lending","Financial Services","https://media.glassdoor.com/sql/1237/bbva-squareLogo-1647250921527.png","BBVA","Unknown / Non-Applicable","Financial Services","10000+ Employees","Company - Private","https://www.bbvausa.com/",,"1857","2022-11-08T00:00:00.000Z","BBVA","4","1008264831630","Area:
+CORPORATE & INVESTMENT BANKING
+Company:
+001
+What are we looking for?
+About you
+We are looking for a talented Analyst Data Scientist to join the Analysis & Monitoring team. Our ideal candidate should be enthusiastic about quality assessment of models, trading algorithms and quantitative strategies, as well as building strong relationships with our business stakeholders to provide them with the best support on their functional questions.
+The successful candidate will have the opportunity to oversight all the productive models, algos and strategies from Advanced Analytics & Algorithmic Trading, working in the following areas:
+Design, implementation and monitoring of quality controls for advanced analytics models, trading algorithms and quantitative investment strategies. These controls ensure that the performance of models and algos does not deteriorate after their release to production.
+Data analysis of the behavior of productive models, algos and strategies. These implementations generate a large amount of data that requires Data Science tools to understand it and explain it to the business.
+Rigorous evaluation of financial impact and KPIs of productive models, algos and strategies. For instance, by analyzing A/B testing results.
+Challenge Data Scientists from the product teams before releasing models or algos into production, by doing a peer review of their proposal
+Engage with the Advanced Analytics Discipline in implementing best practices regarding model monitoring.
+Provide functional support to the business units (traders and sales) regarding data analytics, models, trading algorithms or quantitative strategies.
+The ideal candidate will have:
+A master degree in physics, mathematics, statistics, engineering or computer science.
+1 - 3 years of experience in a technical or data science role in a business environment. Previous experience in the financial markets and / or previous experience in advanced analytics models validation and monitoring is highly valuable.
+Outstanding mathematical literacy: you should be able to discuss business problems using mathematical terms on a piece of paper.
+Programming skills in languages like Python or Scala.
+Practical knowledge of standard statistics and machine learning libraries, and big data frameworks like Hadoop and Spark
+Good English level. Spanish is valuable but optional: we welcome international applications
+The ability to work under pressure. The team is fully integrated into business units. You will have the opportunity to generate high impact with your work, but a strong commitment to delivery is a must have.
+Overview
+Overview
+Advanced Analytics & Algorithmic Trading is the team of Data Scientists in C&IB Global Markets that implement trading algorithms, quantitative investment strategies and advanced analytics models for trading and sales teams. We have a strong focus on analyzing and monitoring the quality of all our implementations and providing first class support to our business stakeholders. That is the reason why we have a specialized team, Analysis & Monitoring, that handles these critical tasks.
+
+
+About the job
+To give you an idea, a few examples of topics you would be looking at are:
+From Concept Drift to Model Degradation: An Overview on Performance-Aware Drift Detectors, by F. Bayram, B.S. Ahmed, and A. Kassler: arxiv.org/pdf/2203.11070.pdf
+Machine Learning in Non-Stationary Environments: Introduction to Covariate Shift Adaptation, by Sugiyama M. and Kawanabe M.
+Advances in Financial Machine Learning, by Marcos López de Prado.
+The Science of Algorithmic Trading and Portfolio Management, by Kissell, R.
+How can you expect that a typical day unfolds if you join the team?
+You will start the day checking that our trading algorithms, models and quantitative strategies, as well as the supporting analytics processes, have a smooth start.
+Later, you will join the rest of the data scientists to discuss their different lines of work
+and share ideas.
+Sitting on the open trading floor, or working from home (we operate in a flexible 60% office, 40% home scheme), you will have extensive time to engage with our business stakeholders on functional questions; discuss with product data scientists potential quality issues in their implementations; improve and implement new data science based monitoring processes that evaluate the potential degradation of algos, models and strategies; analyze financial impact and KPIs; participate in workflows of approval of new implementations by challenging the product data scientists proposals from a functional point of view; and investigate potential alerts regarding the performance of algos, models and strategies.
+Some time might be also allocated for learning and training, either at campus BBVA or with the rest of the team in our journal and book club sessions, where we discuss in group the latest books and papers relevant to our activity.
+
+Working at BBVA
+BBVA is a global company with over 160 years of history present in 25 countries with over 81 million customers. We are more than 110,000 professionals working in multidisciplinary and diverse teams.
+
+
+At BBVA, we are ahead of the transformation that is taking place in the banking sector, challenging the status quo, to make life easier to our customers.
+
+
+Being part of BBVA means developing your career in one of the most innovative companies in finance.
+Responsible banking
+We're committed to responsible banking to help drive a more inclusive and sustainable society. The future of banking lies in financing the future.
+
+We started out with the spirit of helping others make the best financial decisions. That spirit remains with us today and encourages us to keep moving forward, prioritizing innovation and digital transformation so that we can put the opportunities of this new era within everyone's reach.
+Diversity
+At BBVA we believe having a diverse team makes us a better bank.
+
+For this reason, we actively support diversity, inclusion and equal opportunities regardless race, sex, age, religion, sexual orientation, gender identity or expression. We cultivate a collaborative and inclusive work environment that allows every employee to do their best work.
+Our values
+Our values define our identity; they are what drives us to make our goals a reality and they guide all of our actions and the decisions we make.
+Customer comes first
+We think big
+We are one teamShow more  Report","Madrid","DATA SCIENTIST ANALYST I","EUR",,,,,"https://www.glassdoor.com/job-listing/data-scientist-analyst-i-bbva-JV_IC2664239_KO0,24_KE25,29.htm?jl=1008264831630&pos=104&ao=1136043&s=58&guid=000001861f1c5df0ad854b838313ed58&src=GD_JOB_AD&t=SR&vt=w&cs=1_9bd30669&cb=1675559198457&jobListingId=1008264831630&jrtk=3-0-1gofhongk2ea3001-1gofhonh8ia1a800-e96b6be2c7648fe8-&ctt=1675559203121"
+,,,,,,,,,,,,,,,"Alkemy",,,,,,,,"2022-11-24T00:00:00.000Z","Alkemy","","1008303571270","En Alkemy España ¡Seguimos creciendo! Buscamos incorporar un/a compañer@ como Data Analyst Trainee para formar parte del equipo de Data en nuestras oficinas de Madrid.¿Quiénes somos?Alkemy es una consultora digital internacional, que cotiza en la bolsa de Milán, con más de 80 Mill. de facturación y 700 empleados. Nuestra misión es reunir a los mejores talentos para ayudar a las empresas líderes a utilizar las tecnologías más recientes para resolver sus problemas clave, esencialmente en 3 macro ámbitos: Customer Acquisition, Customer Experiencie & Customer Operation.Tendrás la oportunidad de innovar en una de las consultoras de Innovación y Transformación Digital más relevantes en el sur de Europa y Latam y poner esa experiencia en acción en proyectos emblemáticos.Un Digital Analyst tiene como objetivo principal dar sentido y significado a los datos hallados con las distintas herramientas de medición online, para llevar a cabo la solución de análisis y visualización de la organización y así sacar conclusiones y generar recomendaciones e Insight. Por lo tanto, busca la cohesión entre los objetivos de la compañía con los de medición online.¿Cuál será tu día a día?Auditar necesidades y soluciones de analítica implementadas por los clientesAnálisis sobre datos actuales: detección de Insights que faciliten la mejora en la eficacia publicitaria.Estudio del “customer journey” online del usuario para facilitar los procesosDiseñar soluciones de medición digital ajustadas a las necesidades del cliente estableciendo KPIs, Dashboards y guías de etiquetado.Alta capacidad para interpretar el dato, analizar problemas y presentar soluciones.Reporting y uso avanzado de Data Studio y Google Analytics.¿Qué buscamos?Conocimientos de otras disciplinas de marketing digital (SEM, Medios, etc.) a ser posible desde la suite Google Marketing Plataform.Valorable la experiencia en herramientas de visualización de datos como DataStudio, Tableau, Qlik Sense.Conocimientos solvente de Google Analytics , iniciado en GTM.Recomendable conocimiento técnico (base de datos, SQL).Conocimientos en Google Data Studio y Power BI.Formación especializada como analista digital y grado relacionado.Nivel de inglés alto.Posibilidad de firmar un convenio de beca con centro de estudios.Herramientas:Google Data Studio, Power BI, Tableau.Google Analytics, GA4, GTM, Firebase, Adobe.Supermetrics.Excel, Google SpreadsheetsBigquery , GCP (Azure & AWS sería un plus).¿Hablamos? Este es nuestro proceso de Selección:Envíanos tu CV a la dirección y si tu candidatura cumple con los requisitos exigidos te llamaremos para un máximo de tres entrevistas que incluyen una personal, una técnica y en ocasiones alguna prueba técnica.Tipo de puesto: Jornada completa, Contrato para la formación y el aprendizajeBeneficios:Eventos de la empresaFlexibilidad horariaJornada intensiva los viernesOrdenador de empresaTeletrabajo opcionalHorario:De lunes a viernesUbicación del trabajo: Una ubicaciónShow more  Report","Spain","Data Analyst Trainee","EUR",,,,,"https://www.glassdoor.com/job-listing/data-analyst-trainee-alkemy-JV_KO0,20_KE21,27.htm?jl=1008303571270&pos=106&ao=1136043&s=58&guid=000001861f1c5df0ad854b838313ed58&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_608b2ce5&cb=1675559198457&jobListingId=1008303571270&jrtk=3-0-1gofhongk2ea3001-1gofhonh8ia1a800-31864d8d544ab360-&ctt=1675559204891"
+,,"Ceo","Bernd Montag","https://media.glassdoor.com/people/sql/1317005/siemens-healthcare-ceo1480670679697.png",,,,"Malvern, PA",,"EmployerIndustry","200163","Biotechnology","Pharmaceutical & Biotechnology","https://media.glassdoor.com/sql/1317005/siemens-healthineers-squareLogo-1675264418519.png","Siemens Healthineers","$10+ billion (USD)","Pharmaceutical & Biotechnology","10000+ Employees","Company - Public","https://www.siemens-healthineers.com/en-us/",,"1847","2023-01-31T00:00:00.000Z","Siemens Healthineers","4.1","1008441744135","Siemens Mobility is a separately managed company of Siemens AG and has been a leading supplier in the field of mobility for over 160 years. Our core business includes rail vehicles, rail automation and electrification solutions, turnkey systems, and related services. We have always been very innovative in making traveling faster, safer, and more comfortable. Today, we need new solutions to new challenges such as climate change and rising populations worldwide. That's what drives us. That's why we shape mobility with passion, always being one step ahead. Through digitalization, we make infrastructures smart and create opportunities that get us from A to B sustainably and seamlessly. Our employees are pioneers in mobility who help to keep the world moving.
+At Siemens we are always challenging ourselves to build a better future. We need the most innovative and diverse Digital Minds to develop tomorrow’s reality.
+We are looking for a data analyst that joins the Launch Hub (ninja) team and who shares our passion for helping make Siemens Mobility Spain and the South-West Europe Region a more efficient and digitalized company. The Ninja Launch Hub is a space to innovate where self-initiative can thrive. The goal is to push internal digital transformation, enhance efficiency and provide proper tools and information to the strategic decision-making processes at the company. The Launch Hub main activities are focused on starting or set efficiency in motion, build up a community and support on becoming a data-driven company.
+As a Data Analyst, you will focus on help drive decisions and action through analytics. You will help deliver value to our end users and have the opportunity to create visualization solutions. You will tackle complex problems while delivering real-world solutions.
+What will you do?
+Work closely with various stakeholders to analyze, organize, use and present dataCreate reports, dashboards, and performance indicators in compliance with Best Practices and standardsAnalyze data to derive insights for critical decision-makingAnalyze data, conduct research, and synthesize feedback into plans, processes, and playbooksProvide analysis of trends and forecasts and recommend actions for optimizationIdentify patterns, build models, test, and improve predictive algorithms that increase our understanding of trends and identify opportunities to improvePropose creative technical and quantitative solutions to problems and drive these through to implementationPartner with teams within SMO Spain and the broader SWE region to solve problems and identify trends and opportunitiesCommunicating results of analyses to non-technical stakeholders who are the users of systems involving metrics, pipelines, and dashboardsBuild analytics tools that utilize the data pipeline to provide actionable insights to operational efficiency, and other key business performance metricsIncrease the capabilities of our reporting/analytics platforms to support business insight for internal users
+What will you need to succeed?Display self-reliance and resourcefulnessBe comfortable in a fast-moving environment and excited to collaborate cross functionally.Be proactive identifying opportunities for improvements in data quality, data visualization and data reporting, innovative, enthusiastic, and versatileBe an excellent team player and like to work in multi-disciplinary teamsBe passionate about data, digitalization, AI and analyticsHave strong internal customer focusPossess the Ability to navigate easily in a global & multicultural environmentProblem solving and data analysis skillsHave strong data visualization skillsGood communication skills
+What qualifications do you need?
+2+ years professional experience working on data analyticsDegree with a quantitative focus in Economics, Computer Science, Information Systems, Mathematics, Statistics, Operations Research, Business Analytics or equivalentExperience supporting and working with cross-functional teams in a dynamic environmentProfessional experience with data visualization toolsProfessional experience with reporting systems, data pipeline architecture, data modelling and automationOffice 365 Power Platform knowledge (Power BI, PowerApps, PowerAutomate…)Experience with statistical analysis (e.g., hypothesis testing, probability, regressions, experimentation logic and biases, data modeling techniques, time series analysis)Proficiency in querying and manipulating complex raw datasets for analysis using SQL, Python or RKnowledge of VBA languageKnowledge of SAP softwareAbility explaining technical concepts and analysis implications clearly to varied audiences and ability to translate business objectives into actionable analysesDesirable User Experience knowledge/orientationDesirable Mendix (low code tools) knowledge
+If we all thought the same, we would never think of anything new! That’s why we recruit great minds from all walks of life. We recognise that building a diverse workforce is essential to the success of our business, therefore we encourage applications from a diverse talent pool. We welcome the opportunity to discuss flexibility requirements with our applicants to encourage agile working and innovation. Flexibility is our main benefit. We combine remote and presence work because work-life balance and wellbeing are essential for our teams. We are convinced that stay at home allow us to focus on activities that need more time for concentration and being at the office enhance our creativity collaborating and learning from others.
+Siemens aboga por la igualdad de oportunidades entre mujeres y hombres, así como en la Diversidad como fuente de creatividad e innovación. Contar con diferentes tipos de talento y de experiencias nos hace ser más competitivos y estar mejor preparados para responder con éxito a las demandas de la Sociedad. Por ello, valoramos a las candidatas y a los candidatos que reflejen la Diversidad que disfrutamos en nuestra Compañía y animamos la cobertura de puestos por mujeres y hombres en ocupaciones que se encuentren subrepresentadas.
+#LI-ES
+#LI-AM1
+Organization: Siemens Mobility
+Company: SIEMENS MOBILITY, S.L.U.
+Experience Level: Mid-level Professional
+Full / Part time: Full-timeShow more  Report","Spain","Data Analyst","EUR",,,,,"https://www.glassdoor.com/job-listing/data-analyst-siemens-healthineers-JV_KO0,12_KE13,33.htm?jl=1008441744135&pos=105&ao=1136043&s=58&guid=000001861f1c5df0ad854b838313ed58&src=GD_JOB_AD&t=SR&vt=w&cs=1_47001005&cb=1675559198457&jobListingId=1008441744135&jrtk=3-0-1gofhongk2ea3001-1gofhonh8ia1a800-f010bf7d00eaf63a-&ctt=1675559205561"
+,,"Ceo","Ari Bousbib","https://media.glassdoor.com/people/sql/8347/ims-health-ari-bousbib.png",,,,"Durham, NC",,"EmployerIndustry","200021","Biotech & Pharmaceuticals","Pharmaceutical & Biotechnology","https://media.glassdoor.com/sql/8347/iqvia-squareLogo-1631146794136.png","IQVIA","$10+ billion (USD)","Pharmaceutical & Biotechnology","10000+ Employees","Company - Public","jobs.iqvia.com",,"2017","2022-09-15T00:00:00.000Z","IQVIA","4","1008141917243","With approximately 85,000 employees in more than 100 countries, IQVIA is in a truly unique position to be able to support companies seeking to improve real-world patient outcomes and enhanced clinical trial outsourcing through treatment innovations, care provision and access. With a broad range of healthcare information, technology and service offerings, IQVIA provides solutions that span clinical to commercial, bringing clients an exceptional opportunity to realize the full potential of innovations and advance healthcare outcomes.
+We are looking for a passionate Business Analyst to provide solutions that enable life sciences companies to innovate with confidence and maximize their opportunities.
+Join us on our exciting journey!
+ROLE DESCRIPTION
+As an IQVIA Business Analyst within the business strategy consulting team you’ll be working in projects of typically 3 – 5 team members, playing an active role in all aspects of the client engagement. Particularly:Contributing to internal brainstorming sessions to develop project methodology and recommendationsConducting independent desk research to a specific brief using internal and external sourcesPerforming quantitative and qualitative analyses to aid development of recommendationsContributing to the preparation, execution and follow up of client presentationsAcquiring deep knowledge of IMS data sources, aiming to act as expert adviser to other members of the consulting teamProactively developing knowledge of the healthcare industry and consulting methodologies
+ROLE QUALIFICATIONS
+When hiring a Business Analyst we expect the following skills and requirements:Bachelor’s degree with and outstanding record of academic achievementPrior work experience after completing your undergraduate degree of 1 – 3 years would be valued (not compulsory)Exceptional analytical and quantitative problem-solving skillsAbility to work collaboratively in a team environment and effectively with people at all levels in an organizationAbility to communicate effectively – both verbally and in writing – in Spanish and EnglishAdaptability and ability to learn quickly and apply new knowledge
+IQVIA is a leading global provider of advanced analytics, technology solutions and clinical research services to the life sciences industry. We believe in pushing the boundaries of human science and data science to make the biggest impact possible – to help our customers create a healthier world. Learn more at https://jobs.iqvia.comShow more  Report","Madrid","Analyst - Business Strategy Consulting","EUR",,,,,"https://www.glassdoor.com/job-listing/analyst-business-strategy-consulting-iqvia-JV_IC2664239_KO0,36_KE37,42.htm?jl=1008141917243&pos=110&ao=1136043&s=58&guid=000001861f1c5df0ad854b838313ed58&src=GD_JOB_AD&t=SR&vt=w&cs=1_e369df6f&cb=1675559198457&jobListingId=1008141917243&jrtk=3-0-1gofhongk2ea3001-1gofhonh8ia1a800-71b020e9a0d7014f-&ctt=1675559207196"
+,,,,,,,,,,,,,,,"MBD Analytics",,,,,,,,"2022-12-19T00:00:00.000Z","MBD Analytics","","1008358479649","Requisitos:Data Analyst, para desarrollar carrera profesional en empresa Consultora especializada en el sector, con integración inmediata en equipo de trabajo y que cuente con:Facilidad de relación y trabajo en equipoResponsabilidadInquietud por ampliar conocimientosCapacidad AnalíticaGrado en Carreras Técnicas (Ingenierías, Matemáticas,...) o ADEExperiencia no requeridaCapacidad analítica y facilidad para el trabajo en equipoIngles nivel B2Manejo de Excel y Powerpoint.Se valorará experiencia en Departamentos de Análisis (analista) o en Consultoría Data AnalyticsSe valorará conocimiento en lenguajes programación (SQL,R, Phyton...) o en herramientas de manejo de bases de datos (Business Objects, SAS)Se valorará conocimiento de herramientas de visualización (Tableau, PowerBI, Qlickview,)Se valorará MBA o máster específico relacionado con Data Analytics/Data ScienceCondiciones:En MBD contratamos, formamos y desarrollamos personas de alta cualificación profesional y talento, comprometidos y alineados con nuestras estrategias, planes de negocio y con nuestros valores. Por ello, ponemos a disposición de todos quienes quieran formar parte de nuestro equipo:Jornada completaEntorno de trabajo estimulanteExperiencias profesionales diferentesFormación permanentePlanes de carrera estructuradaFormato híbrido teletrabajo + presencialObligaciones:Desarrollo de proyectos de BI-Data Analytics, realizando tareas de manejo de bases de datos, análisis cuantitativos/datamining y visualización de información.Identificación de conclusiones de negocio relevantes en los análisis realizados, participando en la elaboración de presentaciones de resultados.Relación directa con el cliente.Tipo de puesto: Jornada completa, Contrato indefinidoBeneficios:Eventos de la empresaFlexibilidad horariaPrograma de formaciónHorario:De lunes a viernesTipos de compensaciones complementarias:14 pagasBonus anualEducación:Licenciatura/Grado (Obligatorio)Idioma:Inglés (Deseable)Ubicación del trabajo: Teletrabajo híbrido en 28108 Alcobendas, MadridShow more  Report","Spain","Data Analyst","EUR",,,,,"https://www.glassdoor.com/job-listing/data-analyst-mbd-analytics-JV_KO0,12_KE13,26.htm?jl=1008358479649&pos=107&ao=1136043&s=58&guid=000001861f1c5df0ad854b838313ed58&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_7f7fa7b1&cb=1675559198457&jobListingId=1008358479649&jrtk=3-0-1gofhongk2ea3001-1gofhonh8ia1a800-62ca73aef0be795a-&ctt=1675559206611"
+,,"Ceo","Ignacio Bachiller","https://media.glassdoor.com/people/sql/768571/fever-ceo1490949449468.png",,,,"New York, NY",,"EmployerIndustry","200063","Internet & Web Services","Information Technology","https://media.glassdoor.com/sql/768571/fever-squareLogo-1618332939665.png","FeverUp","$25 to $100 million (USD)","Information Technology","51 to 200 Employees","Company - Private","www.feverup.com",,"2014","2023-02-03T00:00:00.000Z","FeverUp","3.9","1008449304613","Hi, we're Fever
+We're excited you are checking out this job offer.
+
+We are the leading global live-entertainment discovery tech platform with a clear mission: to democratize access to culture and entertainment.
+
+How do we achieve our mission? Fever has developed a proprietary technology that inspires a global community of over 125M people through personalized and curated experiences in their local city whilst empowering entertainment and event creators to reach new audiences and enhance their experience.
+
+Sounds amazing, right?
+About The Role:
+
+Support the Operations team in the continuous improvement of their assets.
+Lead experiments to generate insights about Operations practices and processes.
+Uncover through data analysis hidden opportunities for improvement
+You will be mentored by an Operations Manager to support the Ops team with the best analytics from our department.
+Building a deep understanding of data and pipelines.
+This role is suited for Analysts who enjoy a cross-functional role and love to problem-solve. We are looking for a down to earth, detail-oriented person who has a thirst for knowledge and can form their own fair, holistic judgement.
+Define KPIs that matter and help us to identify the best practices to et a deep understanding of all the variables (both internal and external) that have an impact on the Operations department
+
+About You:
+
+You are degree qualified, with a analytical background. You thrive in a fast-paced environment and pride yourself on your flexible, detail-oriented, analytical and organized mindset.
+
+2+ years experience in data analytics
+Fluent English and other languages are a plus!
+Huge appetite for learning and the ability to pick up new skills quickly. You will also have strong analytical, and organisational skills.
+You'll be solution-focused, identifying problem areas and then creating plans to find resolutions.
+You'll have strong communication skills and a proven track record of building positive working relationships.
+Highly organized and efficient
+Curious and keen to push boundaries and try new concepts
+
+Benefits & Perks:
+
+Attractive compensation package consisting of base salary and the potential to earn a significant bonus for top performance.
+Opportunity to have a real impact in a high-growth global category leader
+40% discount on all Fever events and experiences
+Work in a location in the heart of Madrid, with possible travel across our markets
+Home office friendly
+Responsibility from day one and professional and personal growth
+Great work environment with a young, international team of talented people to work with!
+Health insurance and other benefits such as Flexible remuneration with a 100% tax exemption through Cobee.
+Gympass
+English Lessons
+We have free food, drink and fruit at the office!
+Possibility to receive in advance part of your salary by Payflow
+
+Thank you for considering joining Fever. We cannot wait to learn more about you!
+
+If you want to learn more about us: Fever's Blog | Tech.Eu | TechCrunch
+
+Fever is committed to creating an inclusive and diverse workspace where everyone's background and ideas count. Our main goal is to find the best possible talent regardless of place of birth, racial or ethnic origin, gender, gender identity, religion, opinion, sexual orientation, disability, pregnancy, marital status, age or caring responsibilities. We encourage everyone to apply!
+
+If you require any kind of accommodation during the selection process please contact our Talent team so we can help you by providing a welcoming and seamless journey.Show more  Report","Madrid","Operations Data Analyst","EUR",,,,,"https://www.glassdoor.com/job-listing/operations-data-analyst-feverup-JV_IC2664239_KO0,23_KE24,31.htm?jl=1008449304613&pos=109&ao=1136043&s=58&guid=000001861f1c5df0ad854b838313ed58&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_c753a3f4&cb=1675559198457&jobListingId=1008449304613&jrtk=3-0-1gofhongk2ea3001-1gofhonh8ia1a800-d24d0c39839ad5fb-&ctt=1675559207049"
+,,"Ceo","Luis Maroto","https://media.glassdoor.com/people/sql/6940/amadeus-it-group-luis-maroto.png",,,,"Madrid, Spain",,"EmployerIndustry","200064","Information Technology Support Services","Information Technology","https://media.glassdoor.com/sql/6940/amadeus-it-group-squarelogo-1391506657604.png","Amadeus","$1 to $5 billion (USD)","Information Technology","10000+ Employees","Company - Public","amadeus.com",,"1987","2023-02-03T00:00:00.000Z","Amadeus","4","1008449136052","Job Title
+Portfolio & Strategy Analyst (Madrid or Nice)
+Summary of the role
+Support in the definition of the strategy and evolution of the overall Amadeus Travel Distribution portfolio offering (products, solutions, services) for a specified region, customer segment and or business unit, ensuring the right return.
+Common accountabilitiesSupport the Manager/Sr Manager in defining a vision and strategy for the portfolio in line with the corporate strategy and operational challenges and translates it into a Strategic memo/planIdentify, define, and perform complex analyses to support building scenarios and recommendations (in-depth market analysis, competitive positioning, new business models, go-to-market strategy definition, etc.), in close collaboration with the Strategy Manager/Senior Strategy Manager
+Specific accountabilitiesSupports to drive Portfolio strategy and governance at Distribution and domain level (strategy, commercial/portfolio offering, investment priorities)Contributes to provide strategic recommendations to serve as guardrails for the PM team (e.g., market research and portfolio performance, prepare analysis and findings, recommendations, presentations…)Participates in brain-storming sessions and contributes to the final recommendation (e.g., investment prioritization, strategic guidelines…)Support the Manager/Senior Manager for the implementation of the proposed recommendation, in close co-operation with the Product Managers, Product Marketing managers and other teams in the organization
+About the ideal candidateUniversity degree in Business Administration and/or Engineering, or relatedAt least 2-3 years of experience in product/portfolio management, strategy consulting firms, strategy departmentsStrong understanding of portfolio management, strategy and planning functions in large international companiesProficient in English (both verbal and written); Spanish, French an advantageAbility to analyze and interpret data to make business recommendationsAbility to communicate information clearly and precisely to various stakeholders
+What can we offer you?Work in a company that has been voted as a Top UK & European Employer for four consecutive years and recognized as a Financial Times Leader in DiversityAccess to a comprehensive suite of learning and development toolsA role that tangibly impacts millions of travelers around the globeAn opportunity to work in a multicultural, fun, and supportive global team
+Application Process
+The application process takes a few minutes to complete. You'll need to create your candidate profile in our system and upload your resume.
+Join our global team of experts as we build the future of travel.
+Apply now!
+Diversity & Inclusion
+We are an Equal Opportunity Employer and seek to hire the best candidate regardless of age, beliefs, disability, ethnicity, gender or sexual orientation.Show more  Report","Madrid","Portfolio & Strategy Analyst (Madrid or Nice)","EUR",,,,,"https://www.glassdoor.com/job-listing/portfolio-strategy-analyst-madrid-or-nice-amadeus-JV_IC2664239_KO0,41_KE42,49.htm?jl=1008449136052&pos=111&ao=1136043&s=58&guid=000001861f1c5df0ad854b838313ed58&src=GD_JOB_AD&t=SR&vt=w&cs=1_0457b01a&cb=1675559198457&jobListingId=1008449136052&jrtk=3-0-1gofhongk2ea3001-1gofhonh8ia1a800-fa625cb6ecf02dc4-&ctt=1675559208439"
+,,"Ceo","Ari Bousbib","https://media.glassdoor.com/people/sql/8347/ims-health-ari-bousbib.png",,,,"Durham, NC",,"EmployerIndustry","200021","Biotech & Pharmaceuticals","Pharmaceutical & Biotechnology","https://media.glassdoor.com/sql/8347/iqvia-squareLogo-1631146794136.png","IQVIA","$10+ billion (USD)","Pharmaceutical & Biotechnology","10000+ Employees","Company - Public","jobs.iqvia.com",,"2017","2023-01-25T00:00:00.000Z","IQVIA","4","1008428158617","Join us on our exciting journey!
+Position Purpose:
+We are looking for a passionate and Sr Production Data Integrity Associate which primary focus will be to be responsible for data integrity and output quality assurance from data sources.
+If you want to play a key role in a multidisciplinary and brand new team across a fast moving, growing business unit, this could be the role for you!
+What to expect:
+Become responsible for the quality control process and quality assurance in our syndicated offerings.
+Execute standard quality checks, identifying and interpreting trends or patterns using statistical techniques.
+Evaluate business data to identify their different characteristics and locate their similarities based on the local market rules.
+Perform ongoing analysis and evaluation of existing processes looking for continuous improvements opportunities.
+Develop & share knowledge with the team and maintain all procedures documented to be used for all team members.
+Serve as a first escalation point for solving exceptions and liaise with internal teams to get client queries solved.
+May provide direct support to clients and business initiatives.
+Maintain and collect indicators (KPI’s).
+Our ideal candidate: Skills & other requirements.
+Bachelor degree in Science or equivalent (ie: Statistician) is desirable.
+Minimum of one year of experience in a data analytics role is a must.
+Programming in SAS is required.
+Other programming tools are desired, R, SQL, etc.
+Proficiency in MS Office applications in Excel, Word, Access, PowerPoint.
+Strong problem-solving skills and the ability to deal with complexity in a fast-paced environment.
+Strong sense of communication and teamwork spirit.
+Detail oriented and ability to analyze complicated data sets.
+Taste for research and investigation.
+We invite you to join IQVIA™.
+IQVIA recognized by Great Place to Work as the second best company to work for in Spain (March 2018)
+FORTUNE Magazine's World's Most Admired Companies list for the third year in a row.
+Recognised by the 2016 Scrip Awards as the Best Full-service Provider Contract Research Organization (CRO)
+Awarded the 2016 Eagle Award from the Society for Clinical Research Sites (SCRS) for the fourth consecutive year. A site-nominated award recognising contract research organizations (CRO) and biopharmaceutical sponsors dedicated to building positive relationships with research sites through leadership, professionalism and integrity.
+IQVIA™ named in The International Association of Outsourcing Professionals (IAOP) 2017 Global Outsourcing 100® List which recognizes the world’s best service providers across a range of industries.
+IQVIA™ is an equal opportunity employer. We make employment decisions based on qualifications and merit. We prohibit discrimination based on any unlawful consideration such as age, race, national origin, gender or other ""protected status“.
+We know that meaningful results require not only the right approach but also the right people. Regardless of your role, we invite you to reimagine healthcare with us. You will have the opportunity to play an important part in helping our clients drive healthcare forward and whatever your career goals, we are here to ensure you get there!
+IQVIA is a leading global provider of advanced analytics, technology solutions and clinical research services to the life sciences industry. We believe in pushing the boundaries of human science and data science to make the biggest impact possible – to help our customers create a healthier world. Learn more at https://jobs.iqvia.comShow more  Report","Madrid","Data Analytics Analyst, SAS Programming - European Languages Speaker","EUR",,,,,"https://www.glassdoor.com/job-listing/data-analytics-analyst-sas-programming-european-languages-speaker-iqvia-JV_IC2664239_KO0,65_KE66,71.htm?jl=1008428158617&pos=112&ao=1136043&s=58&guid=000001861f1c5df0ad854b838313ed58&src=GD_JOB_AD&t=SR&vt=w&cs=1_bf552680&cb=1675559198457&jobListingId=1008428158617&jrtk=3-0-1gofhongk2ea3001-1gofhonh8ia1a800-e84fccb0e32d961a-&ctt=1675559208845"
+,,"Ceo","Tony Alvarez II and Bryan P. Marsal ","https://media.glassdoor.com/people/sql/16369/alvarez-and-marsal-ceo1530538109595.png",,,,"New York, NY",,"EmployerIndustry","200028","Business Consulting","Management & Consulting","https://media.glassdoor.com/sql/16369/alvarez-and-marsal-squarelogo-1572559025002.png","Alvarez and Marsal","$1 to $5 billion (USD)","Management & Consulting","5001 to 10000 Employees","Company - Private","https://www.alvarezandmarsal.com",,"1983","2023-01-31T00:00:00.000Z","Alvarez and Marsal","4.1","1008441568361","Description
+Analyst/Associate, Global Portfolio Advisory
+Alvarez & Marsal
+Madrid
+Alvarez & Marsal (""A&M"") is a global consulting firm with more than $2+ billion in revenues, c.7000 staff and over 70 offices world-wide. We offer a broad range of professional services including Restructuring, Transaction Advisory, Performance Improvement, Corporate Transformation, Financial Institutions Advisory, Tax, Valuations, and Disputes and Investigation Services.
+At A&M, we believe in the power of diverse teaming to solve complex problems, create value and drive change for our clients. We are a global market leader, and we are differentiated as a firm by our professionals' unique, varied backgrounds that allow us to serve our clients across the globe with both a practical and innovative approach.
+A&M FIAS works with leading Financial Services Institutions across Europe and revolves around four core areas of expertise: Performance Improvement, Loan Portfolio Advisory, Bank Restructuring and Regulatory Advisory. A&M's Portfolio Advisory Group (PAG) is a leading advisor to financial institutions, platforms, investors and financiers for credit, distressed assets, non-banking assets and real estate transactions. Reflecting its international marketplace, the team is headquartered in London and Madrid, with comprehensive coverage across markets in EMEA through our other offices.
+We provide advice to clients on a range of services including;
+Asset options analysis
+Data and analytics
+Transaction preparation and structuring
+M&A and transaction execution
+Portfolio/asset valuation/pricing
+Asset on-/off-boarding
+Portfolio acquisition due diligence & underwriting
+Operational segregation/carve-out
+The team cover a range of products, such as credit advisory, corporate M&A (lending businesses, origination and servicing platforms for credit and real estate) and secured funding and securitisation advisory and includes many of the most respected, trusted and highly skilled advisors in the industry. They have advised on every major European non-core transaction in the past five years.
+Against a backdrop of unprecedented growth and promotions, an opportunity exists for us to strengthen our PAG team in either London or Madrid at the Analyst / Associate level in order to contribute to a growing and highly experienced Senior Management team. As a valued member of the PAG team, you will work on a variety of projects, leveraging your Financial Services industry knowledge to advise financial institutions, private equity firms & other investment funds, asset managers, regulators and governments across the globe with advice on balance sheet & portfolio optimisation, acquisitions, disposals, financing, management, bank restructuring and resolutions.
+This is a fantastic opportunity for you to become involved in a 'hands on', market leading team, analysing & challenging the status quo and developing sound solutions providing significant value add for your clients.
+Responsibilities:
+Work closely with stakeholders in the client's business and with professionals from leading financial institutions
+Be an action-oriented self-starter with strong analytical skills
+Be comfortable working independently as well as in a high performing team
+Assisting in producing financial modelling and analysis of credit linked cash flow models and projections
+Assisting in manipulating and analysing large quantities of data
+Assisting in producing financial analysis, research and reports
+Assist in the preparation of pitch presentations to potential clients
+Collect, assimilate, and analyse relevant data and use standard processes and tools to help surface insights and solutions
+Analyse market trends, financial metrics, and regulatory/legal restrictions to assess impact to client's portfolio and help evaluate different investment strategies
+Playing a supporting role in the delivery of client presentations and attending client meetings when appropriate
+The successful candidate will have the opportunity be involved in business development activities and will join the team meetings where WIP, project pipeline, resourcing, marketing and business development initiatives are discussed. You will be actively involved in these discussions and be an integrated part of the pan European A&M FIAS team.
+Requirements:
+Strong academic track record including a degree (or equivalent) in a relevant finance, economics or business-related subject
+A professional qualification including ACCA/ CFA qualification (or equivalent) is advantageous
+Previous experience in the Financial Services industry including Investment Banking, Big 4 Firms or other well-established and respected boutique Advisory firms
+Excellent financial analytical skills (Excel, Alteryx, Tableau, Python, etc) & presentation skills (Powerpoint)
+Action-oriented self-starter with strong analytical skills
+Methodical and logical mindset to problem solving, an effective approach to time management and the ability to work to tight deadlines
+Fluent business level English and Spanish is essential. Additional European language skills including French, Dutch, German or Italian are highly desirable
+Experience in loan portfolio advisory. Examples include loan portfolio transactions (sell side or buy side), asset quality reviews and stress tests, loan file and portfolio reviews, loan loss estimates, valuations, loan restructuring and recovery solutions, securitisation transactions, bank performance improvement, merger integration initiatives and project managementShow more  Report","Madrid","Analyst/Associate, Global Portfolio Advisory","EUR",,,,,"https://www.glassdoor.com/job-listing/analyst-associate-global-portfolio-advisory-alvarez-and-marsal-JV_IC2664239_KO0,43_KE44,62.htm?jl=1008441568361&pos=113&ao=1136043&s=58&guid=000001861f1c5df0ad854b838313ed58&src=GD_JOB_AD&t=SR&vt=w&cs=1_0ff24b25&cb=1675559198457&jobListingId=1008441568361&jrtk=3-0-1gofhongk2ea3001-1gofhonh8ia1a800-db021f5c8c89e2b3-&ctt=1675559209657"
+,,"Ceo","Tony Alvarez II and Bryan P. Marsal ","https://media.glassdoor.com/people/sql/16369/alvarez-and-marsal-ceo1530538109595.png",,,,"New York, NY",,"EmployerIndustry","200028","Business Consulting","Management & Consulting","https://media.glassdoor.com/sql/16369/alvarez-and-marsal-squarelogo-1572559025002.png","Alvarez and Marsal","$1 to $5 billion (USD)","Management & Consulting","5001 to 10000 Employees","Company - Private","https://www.alvarezandmarsal.com",,"1983","2023-01-31T00:00:00.000Z","Alvarez and Marsal","4.1","1008441565082","Description
+Analyst, Valuation Services
+Alvarez & Marsal
+Madrid
+Alvarez & Marsal (“A&M”) is a global consulting firm with over $2+ billion in revenues and c. 7,000+ staff across 70 office offering a broad range of professional services including Operational & Financial Restructuring, Transaction Advisory, Performance Improvement, Valuations, and Disputes & Investigation Services.
+Companies, investors and government entities around the world turn to Alvarez & Marsal (A&M) for leadership, action and results.
+Our Valuation & Modelling services business is a dynamic and fast growing business. Over the last 7 years we have established teams in London, Frankfurt, Amsterdam, Munich, and Paris and we launched our Madrid based team in July 2022. We operate cross-border seamlessly and we have no audit restrictions so we do not have any of the resulting issues that are typical in many of our competitors.
+We provide a full suite of valuation services in the areas of Mergers & Acquisitions, Private Equity portfolios, Contentious Valuations, Complex Financial Instruments, Illiquid Securities and Financial and Tax reporting. All of our teams are expanding, and we have established A&M as one of the leading providers of Valuation services globally & the no.1 firm to develop a pan European career in Valuations today.
+Due to increasing demand for such analysis, A&M is growing this team and we are looking for an ambitious Analyst to join us in our Madrid office.
+The successful candidate will:
+Work as part of a team to deliver multiple and complex Valuation engagements
+Perform high-quality valuation analyses using a variety of valuation methodologies
+Use a variety of tools to conduct extensive data analysis and valuation modelling
+Write client reports and other deliverables for high profile assignments
+Contribute to the development of junior colleagues via informal training & development
+Contribute to relationship building with clients through exceptional day-to-day project delivery
+Assist on business development activities including contributing to proposals, pitches & networking
+A&M is an environment that presents a real opportunity for ambitious individuals and our salaries and uncapped bonus structure reflect this. A&M work with a variety of large-cap and mid-cap PE houses, corporate clients and financial institutions providing employees with broad industry exposure.
+Typical projects include:
+Valuations in a Restructuring context
+Commercial valuations for Mergers & Acquisitions
+Valuations for Disputes & Litigation
+Alternative Investments
+PE Portfolio Valuations
+Complex Financial Instruments
+Intellectual Property Valuations
+Fairness Opinions and Commercial Valuations
+Qualifications:
+A strong educational background including Finance and/or Mathematics
+1-2 years valuations and modelling experience including some or all of the areas above, gained at a Big 4 or other reputable consulting firm, investment bank or independent valuation firm
+Proficiency in Excel and PowerPoint
+Excellent oral and written communication skills
+Native Spanish and fluent business level English is essential. Additional European languages are highly valued
+Ambitious with a desire to succeed in an entrepreneurial culture
+We welcome applications from all people with disabilities including individuals with the official Certificate of Disability equal to or greater than 33% issued by the competent public body. For more information about our accessible workplace, including disability accommodations for the application process and beyond, please contact f.beloso@alvarezandmarsal.comShow more  Report","Madrid","Analyst, Valuations","EUR",,,,,"https://www.glassdoor.com/job-listing/analyst-valuations-alvarez-and-marsal-JV_IC2664239_KO0,18_KE19,37.htm?jl=1008441565082&pos=114&ao=1136043&s=58&guid=000001861f1c5df0ad854b838313ed58&src=GD_JOB_AD&t=SR&vt=w&cs=1_010dbb28&cb=1675559198458&jobListingId=1008441565082&jrtk=3-0-1gofhongk2ea3001-1gofhonh8ia1a800-92741855f308ec5c-&ctt=1675559209810"
+,,,,,,,,,,,,,,,"IAG GBS LIMITED SUCURSAL EN ESPAÑA",,,,,,,,"2022-12-23T00:00:00.000Z","IAG GBS LIMITED SUCURSAL EN ESPAÑA","","1008368929174","IAG GBS LIMITED SUCURSAL EN ESPAÑA
+Madrid (Madrid)
+T/2022/40876
+
+Solicita ya el acceso a una beca de prácticas en IAG GBS LIMITED SUCURSAL EN ESPAÑA
+¿Qué ofrece la empresa?
+1 plaza de prácticas en IAG GBS LIMITED SUCURSAL EN ESPAÑA para incorporarse en febrero 2023
+Bolsa de ayuda de 1.000,00€ brutos mensuales
+8h. diarias en Jornada completa
+Centro de prácticas en España: Calle Martinez Villergas 49 Madrid (Madrid)
+La beca incluye matrícula en Máster de Formación Permanente en Decision Making and Innovation (Universidad Camilo José Cela)
+¿Qué perfil busca la empresa?
+Estudiante universitario de grado a falta de TFG/PFC o Titulado universitario de grado o Titulado universitario pre-Bolonia: Grado en Economía, Grado en Ciencia de Datos Aplicada, Grado en Business Data Analytics, Grado en Administración y Dirección de Empresas
+Competencias en Idiomas: nivel B2 de Inglés.
+Plan de formación propuesto
+IAG GBS (Global Business Services) is part of International Airlines Group, one of the world’s leading airline groups, with 546 aircraft flying to over 270 destinations, carrying more than 100 million passengers each year.
+
+IAG GBS provides a plug and play platform of scalable, best in class procurement, finance and IT business services to IAG’s operating companies which include Aer Lingus, Avios, British Airways, IAG, IAG Cargo, Iberia, Iberia Express, LEVEL and Vueling.
+
+The company is headquartered in Krakow, and has operations in London, Madrid, Dublin and Chennai.
+
+Accountabilities
+Ensure all required Operating Company finance systems are up to date, reflecting current pricing for Fuel contracts agreed through the relevant tenders.
+Capture demand and volumes by station, enabling the processing of future tenders.
+Forecasting of actual Fuel costs against the finance plan, for audit and control purposes.
+Follow up on supplier incidents and issues, planning and executing issue resolution activities.
+Manage documentation for audit purposes, including requirements of tax authorities.
+Responsibility for monthly management reporting, achieved through issuing the core monthly report.
+Act as the key touch point for British Airways Operations, Flight Operations, Network Planning and Environment, including query resolution and mandatory reporting.
+Deliver effective supplier performance for the London Hub.
+Identify and resolve the causes of invoice discrepancy, driving continuous improvement with PTP colleagues and offshore.
+Act as key point of contact for Finance for the purpose of the monthly, quarterly and annual close.
+Coordinate commercial relationships with key suppliers by way of daily commercial discussions, including discussions regarding potential penalties or risks related to excess or deficit volumes
+Key Relationships/Interfaces
+Operating company colleagues
+Finance
+Operations
+Wider procurement organisation
+SuppliersShow more  Report","Madrid","PRÁCTICAS DATA ANALYST MADRID","EUR",,,,,"https://www.glassdoor.com/job-listing/prácticas-data-analyst-madrid-iag-gbs-sucursal-en-españa-JV_IC2664239_KO0,29_KE30,56.htm?jl=1008368929174&pos=116&ao=1136043&s=58&guid=000001861f1c5df0ad854b838313ed58&src=GD_JOB_AD&t=SR&vt=w&cs=1_6627f159&cb=1675559198458&jobListingId=1008368929174&jrtk=3-0-1gofhongk2ea3001-1gofhonh8ia1a800-0272620e59630d47-&ctt=1675559211088"
+,,"Ceo","Jean-Laurent Bonnafé","https://media.glassdoor.com/people/sql/10342/bnp-paribas-jean-laurent-bonnafé.png",,,,"Paris, France",,"EmployerIndustry","200048","Banking & Lending","Financial Services","https://media.glassdoor.com/sql/10342/bnp-paribas-squarelogo.png","BNP Paribas","$10+ billion (USD)","Financial Services","10000+ Employees","Company - Public","www.group.bnpparibas",,"2000","2023-01-16T00:00:00.000Z","BNP Paribas","3.8","1008410160679","The Group Chief Data Officer’s mission is articulated around four pillars:
+Setting, in close cooperation with Business Lines and Functions CDOs, the Group data vision in alignment with the Businesses’ strategies and objectives
+Operationalizing this vision in close cooperation with the Group CIO and making data actionable to drive analytics and digital transformation
+Capitalizing on the steering and animation of the Business Lines and Functions CDOs community to strengthen the data culture within the Group
+Enforcing data governance policy including adherence to BCBS 239 and personal data privacy and protection regulations
+
+The CDOs office (Group Data Office GDO) is composed of 5 domains: “Data Management & Architecture”, “Shared Data”, “Data Usage”, “Data Privacy, Protection & Ethics” and “Change, Culture and Innovation”.
+Within the Data Management & Architecture team, you will have a role in organizing Data Management framework, and supporting deployment of the related internal guidelines across the Group, in close collaboration with other CDOs and IT. Your role implies an active contribution in the development and execution of the group’s data vision.
+The Group Data Analyst - Data Management will report to the Data Management & Architecture Lead within the Group Data Office and work closely with Data Management Officers and Analysts.
+Key responsibilities
+Contribute on functional guidelines, recommendations on Data Management, taking into account business and regulatory requirements, applied to metadata management, data dictionary, catalogue, lifecycle traceability, lineage, classification, etc
+Maintain data dictionaries and catalogues at Group Level and support its governance.
+Perform analysis, profiling and recommendation on candidate data to integrate group dictionaries and catalogues.
+Maintain group data lineage quality and synchronization with Business Lines and Group functions.
+Contribute on functional requirements definition of data management tools.
+Contribute to Group data management procedure creation and deployment.
+Contribute to data quality and control framework definition, monitoring and governance.
+Design, implement and maintain data quality control, kpi, and dashboard.
+Support data quality issue and remediation process.
+Support CDOs of Business Lines and Group functions in the implementation of GDO directives in their perimeters.
+Act as a GDO ambassador and contribute to Group employee upskilling on data.
+Contribute to Global Quality Assessment & Remediation Committee (QA&RC) lead by GDO Data management.
+QUALIFICATIONS
+Bachelor’s degree in Finance / Engineering / Computer Science or related fields.
+3-5 years of experience in the banking industry focused on data management, data quality, data governance.
+Experience in data management, data analytics, data visualization tools.
+Experience in data introspection using script, SQL language.
+Proficiency in managing multiple tasks of different work-streams concurrently, prioritizing accordingly to ensure consistent deliver on time.
+Proactivity, adaptability and problem solving skills.
+Team player and detailed oriented.
+Languages: English proficiency required. French and Spanish are a plus.
+Ability to travel as needed.
+PRIMARY LOCATION
+ES-MD-Madrid
+JOB TYPE
+Estándar
+JOB
+FINANCE ACCOUNTS ET MANAGEMENT CONTROL
+EXPERIENCE LEVEL
+Al menos 2 años
+SCHEDULE
+Tiempo completo
+REFERENCE
+BNP-000723
+APPLY
+(REF: BNP-000723)Show more  Report","Madrid","Data Management Analyst BNP PARIBAS","EUR",,,,,"https://www.glassdoor.com/job-listing/data-management-analyst-bnp-paribas-bnp-paribas-JV_IC2664239_KO0,35_KE36,47.htm?jl=1008410160679&pos=120&ao=1136043&s=58&guid=000001861f1c5df0ad854b838313ed58&src=GD_JOB_AD&t=SR&vt=w&cs=1_6c692aff&cb=1675559198458&jobListingId=1008410160679&jrtk=3-0-1gofhongk2ea3001-1gofhonh8ia1a800-e32cd7f99ec12fe9-&ctt=1675559212711"
+,,"Ceo","Jean-Laurent Bonnafé","https://media.glassdoor.com/people/sql/10342/bnp-paribas-jean-laurent-bonnafé.png",,,,"Paris, France",,"EmployerIndustry","200048","Banking & Lending","Financial Services","https://media.glassdoor.com/sql/10342/bnp-paribas-squarelogo.png","BNP Paribas","$10+ billion (USD)","Financial Services","10000+ Employees","Company - Public","www.group.bnpparibas",,"2000","2022-12-07T00:00:00.000Z","BNP Paribas","3.8","1008334190802","BNP Paribas Personal Finance, a través de su marca comercial Cetelem, es especialista en crédito al consumo, préstamos personales y gestión de tarjetas. Es partner financiero de importantes empresas de distribución, de bienes de consumo y concesionarios de automóviles y, además, un referente de análisis de mercado gracias a los estudios del Observatorio Cetelem. BNP Paribas Personal Finance cuenta con 20.000 empleados prestando servicio a más de 20 millones de clientes.
+
+MISIÓN
+Su misión es crear, implementar y analizar planes de datos sobre los procesos y productos de Cetelem dentro del la Dirección de Transformación Digital, así como proporcionar insights basados en las mediciones que ayuden a mejorar el negocio y prever acciones futuras.
+Trabajando en estrecha colaboración con las unidades de negocio para comprender plenamente los retos diarios y ser proactivo en la propuesta y elaboración de diferentes análisis. Buscamos una persona orientada al valor, que tenga siempre en mente cómo podemos aumentar el impacto de la analítica en el cliente y en el negocio.
+Necesitamos que tengas un fuerte espíritu de trabajo en equipo, lo que significa que quieras compartir conocimientos, tengas ganas de apoyar al negocio y a otros analistas de datos.
+FUNCIONES / RESPONSABILIDADES
+Junto con las unidades de negocio, tendrás la responsabilidad de transformar los datos en conocimiento, para ayudar en la toma de decisiones basadas en datos. Los análisis a realizar variarán en función del problema a resolver. Necesitamos a alguien que entienda proactivamente los problemas del negocio y proponga soluciones analíticas.
+Recoger e interpretar datos de diferentes fuentes: DWH y BBDD Operacionales, Datos de tracking Digital, etc..
+Definir nuevos procesos de recogida y análisis de datos de nuestros diferentes verticales de negocio
+Capacidad para identificar y automatizar tareas recurrentes (a través de scripts o cuadros de mando).
+Localizar y definir nuevas oportunidades de mejora de procesos.
+Analizar los resultados de las diferentes acciones y obtener información que pueda conducir a la optimización de los procesos
+Informar de los resultados a los diferentes stackholders, utilizando herramientas de visualización de datos
+Identificar patrones y tendencias en conjuntos de datos, así como automatizar estas tareas para que podamos dedicar menos tiempo a reportar y más a analizar
+Generar documentación de todos los procesos para facilitar su comprensión, transferencia o respaldo
+Valorable conocimiento en herramientas de Analítica Digital, especialmente Adobe Analytics
+
+REQUISITOS
+Formación académica: Grado / Licenciatura en Matemáticas, Estadística, Big Data o similar
+Al menos 3‐4 años de experiencia en un puesto similar
+Pleno dominio de Excel, SAS y SQL (se valorará el conocimiento de otros lenguajes de programación como R o Python)
+Experiencia con herramientas de visualización de datos tipo Tableau/Power BI
+Amplia experiencia en la transformación de datos para extraer ideas clave utilizando conceptos estadísticos/analíticos
+Capacidad para ver las cosas desde una perspectiva diferente y hacer que las soluciones originales funcionen en la práctica
+Habilidades de comunicación para interactuar con otras áreas de la organización
+Capacidad de para influir, entrenar, educar a áreas no técnicas en la importancia de los datos en la toma de decisiones ‐ Cultura del dato
+Inglés fluido
+Proactividad y ganas por asumir retos que contribuyan a la mejora continua de nuestros activos digitales
+PRIMARY LOCATION
+ES-MD-Madrid
+JOB TYPE
+Estándar
+JOB
+MARKETING
+EXPERIENCE LEVEL
+Al menos 3 años
+SCHEDULE
+Tiempo completo
+REFERENCE
+CET-000688
+APPLY
+(REF: CET-000688)Show more  Report","Madrid","Data Analyst BNP Paribas Personal Finance","EUR",,,,,"https://www.glassdoor.com/job-listing/data-analyst-bnp-paribas-personal-finance-bnp-paribas-JV_IC2664239_KO0,41_KE42,53.htm?jl=1008334190802&pos=121&ao=1136043&s=58&guid=000001861f1c5df0ad854b838313ed58&src=GD_JOB_AD&t=SR&vt=w&cs=1_980f4cb0&cb=1675559198458&jobListingId=1008334190802&jrtk=3-0-1gofhongk2ea3001-1gofhonh8ia1a800-a767ffe3683d9abd-&ctt=1675559214115"
+,,"Ceo","Miguel Arrufat","https://media.glassdoor.com/people/sql/1269388/universidad-internacional-de-la-rioja-ceo1568183532025.png",,,,"Logroño, Spain",,,,,,"https://media.glassdoor.com/sql/1269388/universidad-internacional-de-la-rioja-squarelogo-1567581748415.png","Grupo PROEDUCA","Unknown / Non-Applicable",,"1001 to 5000 Employees","College / University","www.unir.net",,,"2022-09-22T00:00:00.000Z","Grupo PROEDUCA","3.4","1008156555966","Una de las ventajas de trabajar en UNIR, es la posibilidad de seguir creciendo personal y profesionalmente y queremos que saques el máximo partido de ello. ¿Te unes?
+¿Te apasiona el análisis de datos y lo consideras una parte fundamental de la gestión de personas? En UNIR, queremos conocer los datos de nuestra organización con la finalidad poner esos datos “al servicio y en conexión con las personas”.
+Por ello, buscamos un/una HR Data Analyst para incorporarse a nuestro equipo de Recursos Humanos.
+¿Cuáles serán tus funciones?
+
+Gestión y coordinación operativa a los procesos de Talento (Desempeño, Talento, Selección, Encuesta compromiso, Valoración 360º).
+Conocer los procesos de recursos humanos, especialmente los procesos de Compensación y Organización con el objetivo de apoyar en la implantación de nuevos proyectos, así como optimización de procesos cuando sea necesario y requerido.
+Realizar cruces y extracciones de datos de los sistemas para la preparación de informes o análisis avanzado de datos de RRHH.
+Elaboración de análisis retrospectivos y configuración de dashboard relativos a procesos y/o proyectos.
+Identificación, diseño y análisis de KPI's de todo el ciclo de vida del empleado
+Creación, actualización y gestión de bases de datos, con el correspondiente manejo de Excel, Access, Power BI, Oracle, SAP, SuccessFactors, etc.
+Tratamiento y depuración del dato para su posterior análisis.
+Preparación y gestión de cuadros de mando.
+Participación en el proyecto de implantación de la plataforma integral de gestión de RRHH.
+Definir y ejecutar controles sobre los procesos que sean requeridos.
+Consolidación de ficheros para la coordinación de cargas masivas.
+Ejecución y desarrollo de macros persiguiendo la eficiencia y la automatización.
+Participación en proyectos cross de RRHH e interacción con equipos multidisciplinares.
+
+¿Qué te ofrecemos en UNIR?
+
+Estabilidad laboral: posición estable, muy dinámica y salario fijo
+Horario flexible: L-J de 9:00h a 18:15h y V de 9:00h a 14:00h (1 hora de flexibilidad)
+Modelo híbrido (presencial y teletrabajo)
+Retribución flexible que podrás destinar a cheques guardería, tickets restaurante y seguro médico
+Podrás disfrutar de las mejores condiciones formativas con hasta un 80% de descuento en todas las titulaciones de la UNIR.
+
+¿Qué buscamos?
+
+Experiencia en herramientas de analytics y reporting.
+Dominio de herramientas de análisis de datos (recomendado Power BI, deseable OAC y OTBI - Oracle)
+Licenciatura/Grado Universitario (Ingeniería Informática, Estadística, Matemáticas, ADE o similar)
+Valorable experiencia en definición de indicadores
+Capacidad analítica, resiliencia, capacidad de organización y capacidad de trabajo.Show more  Report","Madrid","HR Data Analyst","EUR",,,,,"https://www.glassdoor.com/job-listing/hr-data-analyst-grupo-proeduca-JV_IC2664239_KO0,15_KE16,30.htm?jl=1008156555966&pos=119&ao=1136043&s=58&guid=000001861f1c5df0ad854b838313ed58&src=GD_JOB_AD&t=SR&vt=w&cs=1_908f88f5&cb=1675559198458&jobListingId=1008156555966&jrtk=3-0-1gofhongk2ea3001-1gofhonh8ia1a800-e4222c8b1de9f1d3-&ctt=1675559212588"
+,,"Ceo","Christian Juhl","https://media.glassdoor.com/people/sql/318409/groupm-ceo1584310920479.png",,,,"New York, NY",,"EmployerIndustry","200022","Advertising & Public Relations","Media & Communication","https://media.glassdoor.com/sql/318409/groupm-squarelogo-1437446500545.png","GroupM","Unknown / Non-Applicable","Media & Communication","10000+ Employees","Subsidiary or Business Segment","http://www.groupm.com",,"2003","2023-01-18T00:00:00.000Z","GroupM","3.9","1008415421257","GroupM incorpora un Analista de datos con clara vocación de servicio al cliente, para sus oficinas de Madrid.
+
+Su. Sus funciones principales serán la de compartir aprendizajes e insights con el equipo de cuentas y de activación, así como con los equipos internos del cliente, también deberá coordinar a los distintos equipos técnicos que implementes las distintas soluciones y tecnologías. Fundamentalmente tendrá 3 áreas de actuación: Campaign Analytics, Data Strategy y Modelización, además de innovación en las 3 áreas.
+Campaign Analytics:
+Definición de métricas, KPIs y Objetivos, teniendo en cuenta la dsitintas regiones, hoteles y los binomios origen-Destino.
+Definición de las distintas visualizaciones en dashboard personalizado.
+Apoyo a los equipos técnicos para la conexión de las distintas fuentes de paid media al dashboards
+Seguimiento de las campañas en dashboard.
+Integración de 1st party data en el reporting de campaña (CRM, producto feed, etc)
+Enriquecimiento con 3rd party data de los sistemas de información
+ Data Strategy:
+Búsqueda de segmentos de 1st, 2nd y 3rd party data junto a los equipos de intelligence:
+Creación de segmentos de 1st party data para activación en los distintos canales.
+Búsqueda de 3rd party data interesante para el cliente por región ya sea para activación directa o para sacar aprendizajes.
+Búsqueda de distintas fuentes de información para alimentar el desarrollo de los distintos algoritmos de activación.
+Coordinación para la aplicación de los distintos insigths que puede proveer research.
+Apoyo a los equipos técnicos para la implementación de sistemas cookieles y soluciones de identidad única.
+Propuestas de activación innovadoras basadas en data (PDOOH, CTV, etc.)
+Modelización:
+Apoyo al equipo de econometría para:
+Propuesta de medición mediante modelos de atribución o modelos econométricos, búsqueda de las mejores opciones de modelización, desde metodología a KPI a modelizar (Conversiones, Share of search, etc.)
+Integración de los distintos canales y medición full funnel para aprovechar sinergias.
+GroupM (Mediacom, Mindshare Neo,Wavemaker, Xaxis, The&Partnership) ocupa el puesto 14 de las mejores empresas para trabajar en España, ranking elaborado por Actualidad Económica. Somos compañías que apostamos firmemente por la conciliación, la promoción interna y la formación de l@s emplead@s.
+Si entras a formar parte del grupo tendrás los siguientes beneficios:
+Retribución Flexible, posibilidad de pago de formación, comida, transporte, guardería y seguro médico a través de la nómina.
+Subvención de menú diario, olvida el tupperware en casa.
+Modelo híbrido de teletrabajo.
+Flexibilidad horaria tanto en la entrada como en la salida.
+Posibilidad de sesiones de fisioterapia.
+Clases de Yoga/Pilates (online y presencial).
+Médico en la oficina (online y presencial).
+Café y fruta gratis en la oficina
+Formación subvencionada de la mano de importantes compañías del sector como ISDI, ThePowerMBA, ASTEX (Idiomas), etc..
+GroupM es un empleador que ofrece igualdad de oportunidades. Vemos a todos como individuos y entendemos que la inclusión es más que solo diversidad: se trata de pertenecer. Celebramos el hecho de que todos somos únicos y eso es lo que nos hace tan buenos en lo que hacemos. Nos enorgullecemos de ser una empresa que abraza la diferencia y realmente representa a los clientes globales con los que trabajamos.Show more  Report","Madrid","Data Analyst","EUR",,,,,"https://www.glassdoor.com/job-listing/data-analyst-groupm-JV_IC2664239_KO0,12_KE13,19.htm?jl=1008415421257&pos=122&ao=1136043&s=58&guid=000001861f1c5df0ad854b838313ed58&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_040f38ca&cb=1675559198458&jobListingId=1008415421257&jrtk=3-0-1gofhongk2ea3001-1gofhonh8ia1a800-0384cfee32db8d1e-&ctt=1675559215420"
+,,"Ceo","Nick Studer","https://media.glassdoor.com/people/sql/40206/oliver-wyman-ceo1672845290272.png",,,,"New York, NY",,"EmployerIndustry","200028","Business Consulting","Management & Consulting","https://media.glassdoor.com/sql/40206/oliver-wyman-squareLogo-1615926248768.png","Oliver Wyman Group","$1 to $5 billion (USD)","Management & Consulting","5001 to 10000 Employees","Subsidiary or Business Segment","www.oliverwyman.com",,"1984","2021-11-17T00:00:00.000Z","Oliver Wyman Group","4.3","1007445168355","WHO WE ARE
+Oliver Wyman is a global leader in management consulting. With offices in 60 cities across 29 countries, Oliver Wyman combines deep industry knowledge with specialised expertise in strategy, operations, risk management, and organisation transformation. The firm has more than 5,000 professionals around the world who work with clients to optimise their business, improve their operations and risk profile, and accelerate their organisational performance to seize the most attractive opportunities. Oliver Wyman is a wholly owned subsidiary of Marsh & McLennan Companies [NYSE: MMC].Show more  Report","Madrid","Oliver Wyman Digital: Data & Analytics - Analyst/ Senior Analyst/ - Madrid (Spain)","EUR",,,,,"https://www.glassdoor.com/job-listing/oliver-wyman-digital-data-analytics-analyst-senior-analyst-madrid-spain-oliver-wyman-group-JV_IC2664239_KO0,71_KE72,90.htm?jl=1007445168355&pos=123&ao=1136043&s=58&guid=000001861f1c5df0ad854b838313ed58&src=GD_JOB_AD&t=SR&vt=w&cs=1_6964f7cc&cb=1675559198458&jobListingId=1007445168355&jrtk=3-0-1gofhongk2ea3001-1gofhonh8ia1a800-96349daa4763afde-&ctt=1675559215585"
+,,"Ceo","Jean-Laurent Bonnafé","https://media.glassdoor.com/people/sql/10342/bnp-paribas-jean-laurent-bonnafé.png",,,,"Paris, France",,"EmployerIndustry","200048","Banking & Lending","Financial Services","https://media.glassdoor.com/sql/10342/bnp-paribas-squarelogo.png","BNP Paribas","$10+ billion (USD)","Financial Services","10000+ Employees","Company - Public","www.group.bnpparibas",,"2000","2022-08-23T00:00:00.000Z","BNP Paribas","3.8","1008088216475","Financial Reporting Analyst Intern
+
+Main responsibilities
+Producing on a quarterly basis the Financial Statements of French subsidiaries entities
+Reporting on a monthly basis to the local regulator authority (French National Bank and prudential authority)
+Producing and submitting the Annual Financial Statements to the CFO office and Financial Group department for analysis and control.
+Improving the processes and the data quality.
+Contributing in all different projects concerning LRR team and related deliverables.
+
+Requirements
+Training and occupational experience
+Business school, University Graduate, Master Degree in Accounting, Finance or Engineering Degree
+Working knowledge and/or understanding of generally accepted accounting principles, both in IFRS and French GAAP
+Experience of working in international environment appreciated
+
+Languages
+English Advanced
+French will be a plus
+SKILLS
+Rigour and Precision
+Strong Analytical mindset
+Interpersonal communication and presentation
+Ability to multitask and prioritize
+Client Focus
+Curious
+
+Methodologies, Tools & Technologies
+MS Office pack Advanced
+Knowledge of Finance tools Desirable
+
+BNP Paribas Group in Spain is an equal opportunity employer and proud to provide equal employment opportunity to all job seekers. We are actively committed to ensuring that no individual is discriminated against on the grounds of age, disability, gender reassignment, marriage or civil partnership status, pregnancy and maternity/paternity, race, religion or belief, sex or sexual orientation. Equity and diversity are at the core of our recruitment policy because we believe that they foster creativity and efficiency, which in turn increase performance and productivity. We strive to reflect the society we live in, while keeping with the image of our clients.
+PRIMARY LOCATION
+ES-Community of Madrid
+JOB TYPE
+Trainee
+JOB
+FINANCE ACCOUNTS AND MANAGEMENT CONTROL
+EXPERIENCE LEVEL
+Not Indicated
+SCHEDULE
+Full-time
+REFERENCE
+BNP-000555
+APPLY
+(REF: BNP-000555)Show more  Report","Madrid","Financial Reporting Analyst Intern","EUR",,,,,"https://www.glassdoor.com/job-listing/financial-reporting-analyst-intern-bnp-paribas-JV_IC2664239_KO0,34_KE35,46.htm?jl=1008088216475&pos=117&ao=1136043&s=58&guid=000001861f1c5df0ad854b838313ed58&src=GD_JOB_AD&t=SR&vt=w&cs=1_3ac69566&cb=1675559198458&jobListingId=1008088216475&jrtk=3-0-1gofhongk2ea3001-1gofhonh8ia1a800-c82c0238d925db1c-&ctt=1675559211447"
+,,,,,,,,"El Segundo, CA",,"EmployerIndustry","200061","Enterprise Software & Network Solutions","Information Technology","https://media.glassdoor.com/sql/1956983/scalefast-squarelogo-1517450373349.png","Scalefast","Unknown / Non-Applicable","Information Technology","51 to 200 Employees","Company - Private","www.scalefast.com",,"2014","2022-09-27T00:00:00.000Z","Scalefast","4","1008165789835","Scalefast helps amazing brands develop a successful Direct-to-Consumer online business. Our next-generation technology platform is built to optimize modern eCommerce. Our end-to-end infrastructure includes global merchant-of-record agreements, fulfilment, subscription, loyalty programs and finance functions to deliver new revenue and delightful brand experiences. With a global presence (USA, Europe & Asia), Scalefast has proven itself with global brands like L’Oreal, Microsoft, Club Med, Hasbro and Sega.
+On top of our end-to-end DTC eCommerce offering, we provide our clients with Air360, a first-class Customer Experience and Analytics platform, which enables brands to understand how users interact with websites and mobile apps to boost customer engagement and increase conversion rates.
+The mission of the Data Analyst is to exploit the wealth of information and data collected by Scalefast, by identifying some insights to help our clients grow their business and revenues.
+
+Thanks to that mission, the Data Analyst contributes to reinforcing and nourishing the relationship between Scalefast and its clients.
+
+The Data Analyst is a member of the Business Data Team and reports to the VP Business Data.
+
+Duties:
+Understand the business needs.
+
+Identify, map, filter, clean, cross data and prepare data sets
+Identify, analyze, and interpret trends or patterns
+Communicate and promote the results
+
+What we offer
+
+Competitive salary and a career path adapted to each person's abilities and experience within a company that is growing continuously
+2 days a week working from home
+A flexible schedule and total conciliation between work and family life including reduced timetable during one month in summer
+Become part of a multi-cultural happy family where you can contribute with your experience and learn from the experience of others
+Work with amazing brands
+Get the opportunity to influence the future of our services and platform
+
+Excellent working environment with frequent social activities (hackathons, Spartan races, quarterly whole-team social event)
+
+Central Madrid office located an 8-minute walk from Atocha train station, with a bus stop and BiciMad station right outside the office
+
+Kitchen and dining facilities as well as a fully stocked games room with games consoles etc. - great to disconnect from work for a while and have fun with your colleagues.
+
+Discounted parking space in the office building if you’re coming by car, bicycle parking for those worried about their carbon footprint.
+
+Access to private sales by some of the exclusive brands we work with
+
+Enrollment in English lessons that take place during working hours
+
+Mental Health Wellbeing Program
+Master’s degree in Computer Science, Big Data or related field
+3+ years of experience as a data analyst
+Excellent knowledge and experience in data visualization (QuickSight, Tableau, Power BI)
+Proven track record in Using statistical tools to analyze/crunch data to find some useful insights
+Experience in manipulating huge volume of data
+Experience in SQL
+Experience in using automated tools to extract data from primary and secondary sources and to check data quality (Knime, Alteryx, Excel…)
+Experience in R or Python–Statistical Programming
+Knowledge on data architecture technology, tools, clouds (notably AWS)
+Experience with machine learning techniques is a plu
+
+Soft skills
+
+Curiosity, active listening and willing to understand the business needs
+Collaboration: work as a team, capable of working with the colleagues from the Business team as well as external technical teams
+Force of proposal/Proactive: capable of challenging the business needs, proposing new ideas, crunching to find useful insights
+Communication/Promotion: sharing and promoting data analysis
+Pedagogic: capable of speaking in a pedagogic way to non-data experts
+Problem-solving : test & learn, identify solutions quickly to unlock situations
+Analytical skills
+
+,Languages
+
+English
+Spanish and French are a plus
+
+Today, more than 20 million people around the world buy through our stores. We celebrate the diversity of our customer base, and we want our employees to reflect those differences. At Scalefast, we’re committed to equal employment opportunity regardless of race, colour, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, or veteran status. We strive to be a more equal opportunity workplace.Show more  Report","Madrid","Data Analyst","EUR",,,,,"https://www.glassdoor.com/job-listing/data-analyst-scalefast-JV_IC2664239_KO0,12_KE13,22.htm?jl=1008165789835&pos=125&ao=1136043&s=58&guid=000001861f1c5df0ad854b838313ed58&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_fac5a10a&cb=1675559198458&jobListingId=1008165789835&jrtk=3-0-1gofhongk2ea3001-1gofhonh8ia1a800-947951942860f013-&ctt=1675559216542"
+,,,,,,,,"Rijswijk, Netherlands",,"EmployerIndustry","200094","Real Estate","Real Estate","https://media.glassdoor.com/sql/2468883/mvgm-squarelogo-1629462504726.png","MVGM","Unknown / Non-Applicable","Real Estate","501 to 1000 Employees","Company - Private","https://www.mvgm.nl/",,,"2022-11-14T00:00:00.000Z","MVGM","2.8","1008281490265","¿Qué es lo que estamos buscando?
+Actualmente estamos seleccionando un/a Data Analyst con perfil junior para nuestras oficinas centrales de Madrid.
+¿ Que funciones desarrollarás?Elaboración de cuadros de mando y dashboard.Integración de diferentes bases de datos, carga de datos y consultas.Automatizar procesos ya existentes para dinamizar los flujos operativos.Trabajar de la mano con otros equipos según proyecto asignado para la obtención, limpieza y análisis de la información.Desarrollar y obtener KPI's según necesidades de los clientes.
+¿ Qué requisitos valoramos?
+Para nosotros lo más importante es la actitud, todo lo demás se aprende.
+Compromiso, proactividad y trabajo en equipoNivel de inglés alto ( C1-C2)Nivel alto de Excel, Programación VBA, Power BI (DAX)Formación universitaria preferiblemente en ADE2 años de experiencia desarrollando funciones en un puesto similarMuy valorable: Manejo de otros lenguajes de programación (SQL, R, Python...)
+¿Qué ofrececemos?Jornada completa de 40 horas semanales de Lunes a ViernesHorario FlexibleJornada intensiva los viernes y verano de 8-15:00 horasLugar de trabajo: Oficinas centrales de Madrid ( Avenida de América)Proyecto estable, contrato indefinidoBeneficios sociales y descuentos para empleados.Fruta fresca en la oficinaFormar parte de una organización dinámica donde las personas son el centro de la estrategia de la compañía
+¿ Quieres saber más sobre nosotros?
+https://www.mvgm.es
+En MVGM apostamos por el talento y ofrecemos posibilidades de crecimiento dentro de la compañía. Si te quieres unir a una empresa en crecimiento y comprometida con sus empleados, esta oferta es para ti
+Wsz6JWVTwAShow more  Report","Madrid","Data Analyst","EUR",,,,,"https://www.glassdoor.com/job-listing/data-analyst-mvgm-JV_IC2664239_KO0,12_KE13,17.htm?jl=1008281490265&pos=124&ao=1136043&s=58&guid=000001861f1c5df0ad854b838313ed58&src=GD_JOB_AD&t=SR&vt=w&cs=1_5671d9e8&cb=1675559198458&jobListingId=1008281490265&jrtk=3-0-1gofhongk2ea3001-1gofhonh8ia1a800-412ec5d7e6d5a937-&ctt=1675559217631"
+,,"Ceo","Paul Vivant","https://media.glassdoor.com/people/sql/440462/digimind-ceo1495112054692.png",,,,"Paris, France",,"EmployerIndustry","200060","Computer Hardware Development","Information Technology","https://media.glassdoor.com/sql/440462/digimind-squarelogo-1490278114804.png","Digimind","$5 to $25 million (USD)","Information Technology","51 to 200 Employees","Company - Private","www.digimind.com/carreers",,"1998","2022-10-25T00:00:00.000Z","Digimind","4.1","1008233288589","¿Quienes somos?
+
+
+Digimind es el líder mundial en plataformas de software de Social Media e Inteligencia Competitiva, diseñados para marcas y agencias que desean acelerar la transformación digital a través de un enfoque orientado a la información. La mejor tecnología de Digimind transforma los datos sociales y en línea en información empresarial procesable, permitiendo a los profesionales del marketing analizar, planificar y ejecutar eficazmente su estrategia de marketing. Con oficinas en Nueva York, París, Singapur, Grenoble, Rabat, Buenos Aires, México, Madrid y Ámsterdam, Digimind atiende a más de 700 clientes en todo el mundo. Digimind forma parte de Onclusive, un socio global para el éxito de las relaciones públicas y la comunicación.
+
+
+Responsabilidades
+
+
+Buscamos un Analista de Medios Sociales Junior para trabajar con nuestro equipo de consultoría en Madrid para una práctica de 6 meses.
+
+El Analista de Medios Sociales Junior es responsable de producir informes, análisis y recomendaciones para varios de nuestros clientes.
+
+Bajo la supervisión del equipo, esta persona será responsable del seguimiento de las menciones en los medios sociales, del análisis de las métricas clave generadas en informes sintéticos sobre la reputación y/o la competencia.
+
+
+Requisitos
+
+
+Ayudar a proporcionar análisis semanales, mensuales y trimestrales de reputación y/o de la competencia a los clientes, incluyendo las fases de configuración operativa hasta el despliegue del proyecto,
+Ayudar a los clientes a identificar, diseñar y hacer un seguimiento de los indicadores clave de rendimiento (KPI) relevantes para su estrategia empresarial,
+Participar en iniciativas de preventa.
+Mejorar el conocimiento de diferentes sectores manteniéndose al día con las estrategias y las mejores prácticas de la inteligencia empresarial digital.
+
+
+Educación y experiencia
+
+
+Máster, idealmente en Marketing y/o Comunicación Digital
+Idiomas : Español e inglés fluido; el dominio del portugués es un plus
+Apasionado por el análisis de datos y las redes sociales
+Eres capaz de gestionar y priorizar diferentes proyectos
+Excelentes habilidades comunicativas, proactivas, convincentes
+Quieres unirte a una estructura joven y dinámica donde puedas tener un impacto real
+
+
+Idiomas
+
+
+Español fluido
+Inglés fluido
+Portugués es un plus
+
+
+Qué ofrecemos:
+
+
+Una práctica de 6 meses y remunerada
+Una empresa de hipercrecimiento con ambición global.
+Formar parte de un proyecto en pleno desarrollo, que te permitirá hacer carrera en un sector muy dinámico y en alto demanda como es el Tech
+Formación de expertos para ayudarte a dominar nuestro conjunto de herramientas propias de inteligencia de mercado y escucha social
+La oportunidad de trabajar en el mundo del big data con un equipo internacional de profesionales apasionadosShow more  Report","Madrid","Internship - Junior Social Media Analyst - Madrid","EUR",,,,,"https://www.glassdoor.com/job-listing/internship-junior-social-media-analyst-madrid-digimind-JV_IC2664239_KO0,45_KE46,54.htm?jl=1008233288589&pos=128&ao=1136043&s=58&guid=000001861f1c5df0ad854b838313ed58&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_d7869511&cb=1675559198458&jobListingId=1008233288589&jrtk=3-0-1gofhongk2ea3001-1gofhonh8ia1a800-5bc1a61e8f1a0132-&ctt=1675559218687"
+,,"Ceo","",,,,,"Madrid, Spain",,,,,,"https://media.glassdoor.com/sql/3127426/perfumes-loewe-squarelogo-1634285478237.png","Perfumes Loewe","Unknown / Non-Applicable",,"Unknown","Company - Public","www.perfumesloewe.com",,,"2022-12-29T00:00:00.000Z","Perfumes Loewe","3","1008377176426","Country / Region : Spain
+City : Madrid
+Business group: Perfumes & Cosmetics
+Contract type: Permanent Job
+Function: Sales
+Experience required: Minimum 5 years
+Reference No.: PLOE00052
+Date of publication: 2022.12.29
+Position
+Reporting to the Regional Managing Director of Europe, Latam and Middle East, and the Regional Managing Director of Asia, The International Business Analyst mission will be to identify the organisation’s sales and commercial patterns and recommend strategies to enhance the brands sales and profitability at a worldwide level.
+
+RESPONSABILTIES
+
+Provide input in budgeting and forecasting for sales to achieve organisational objectives.
+Analyse sales reports and suggest strategies for improving business performance in the wholesale, retail and travel retail channels.
+Analyse promotional activities to ensure the funds invested are achieving optimal results.
+Analyze competitors and market performance
+Give financial support to the Regional Managing Directors and Deputy General Manager (KPI’s, Results, Budget, Forecasts, New openings, HQ presentations)
+Periodic communication to the sales team on weekly sales, sales per customer, monthly...
+Financial assessment of new investment opportunities and assist the management in investment decisions
+Work closely with the sales area managers and other commercial team members in providing data-backed recommendations to support effective decision making
+Coordinate with finance team to streamline and channel efforts to improve financial performance of the organisation
+Seek best practices to drive process standardisation in maintaining commercial systems
+Calculate, on a quarterly basis, commercial conditions by client (rebates, discounts, marketing investment, etc)
+Forecast Budget, R1 and R2 by line, reference and client.
+Monitor closely with demand planner the monthly forecast by reference.
+
+Profile
+Education: Bachelor’s degree in Accounting, Finance, Statistics, or Economics; a Master’s in Business Administration or a similar field is a plus
+Experience of at least 6 years as Business Analyst, Controller or similar.
+Proficient level in Excel. PowerBI is desirable.
+Experience with business intelligent tools.
+Languages: Proficient in English is essential and French desirable.Show more  Report","Madrid","International Business Analyst","EUR",,,,,"https://www.glassdoor.com/job-listing/international-business-analyst-perfumes-loewe-JV_IC2664239_KO0,30_KE31,45.htm?jl=1008377176426&pos=130&ao=1136043&s=58&guid=000001861f1c5df0ad854b838313ed58&src=GD_JOB_AD&t=SR&vt=w&cs=1_62ee13ad&cb=1675559198459&jobListingId=1008377176426&jrtk=3-0-1gofhongk2ea3001-1gofhonh8ia1a800-4493d7a5f2c3e358-&ctt=1675559219105"
+,,"Ceo","Andre Oliveira",,,,,"Madrid, Spain",,"EmployerIndustry","200048","Banking & Lending","Financial Services","https://media.glassdoor.com/sql/731499/hipoges-iberia-squarelogo-1468929257212.png","HIPOGES IBERIA","Unknown / Non-Applicable","Financial Services","1 to 50 Employees","Company - Private","www.hipoges.com",,,"2023-01-12T00:00:00.000Z","HIPOGES IBERIA","3.6","1008402255186","Data Analyst Specialist
+Fundada en 2008, HipoGes es una de las plataformas líderes en Asset Management para activos distressed, con más de 20.000 millones de euros en activos bajo gestión. Con oficinas en España, Portugal, Grecia e Italia y más de 500 empleados, HipoGes como plataforma independiente trabaja con más de 30 clientes diferentes, instituciones financieras e inversores internacionales especializados en el sector de activos distressed. HipoGes proporciona soluciones a lo largo de todo el ciclo de inversión:
+Due diligence y valoración
+Cierre de operaciones y reestructuración
+Gestión amistosa de préstamos / gestión legal, real estate management, estrategia de comercialización y venta, reporting ; portfolio management
+En el área de asset management, HipoGes gestiona una amplia gama de activos incluyendo hipotecas residenciales, préstamos a grandes corporaciones y PYMES, activos de real estate y préstamos sin garantía.
+
+Descripción
+El departamento de Information Systems and Data Analytics (IS&DA) es el encargado de gestionar y desarrollar el sistema de gestión de la compañía. Se encargan de cargar los datos de las nuevas carteras en el sistema, la implementación de mejoras y nuevas funcionalidades y la gestión del sistema de reporting interno y externo.
+
+Perfil
+El puesto de Data Analyst se encarga de gestionar la estructura de datos de la compañía y la elaboración de automatismos con el fin de mejorar el sistema y la capacidad de análisis de los datos.
+Las principales funciones son:
+Explotación de bases de datos.Automatización de diferentes procesos para una eficiente gestión de las carteras y funcionamiento interno de Hipoges.Data Quality.Visualización de los datos para la toma de decisiones dentro de la compañía.
+Requisitos:
+Conocimientos en bases de datos, lenguaje SQL (postgreSQL, MySQL).Valorables conocimientos de Tableau o cualquier herramienta de BI (Qliksense, PowerBI).Valorable conocimiento en Python.Deseable conocer herramientas ETLNivel avanzado de ExcelBuena capacidad analítica y atención al detalleBuenas habilidades de comunicaciónInglés nivel altoShow more  Report","Madrid","Data Analyst Specialist","EUR",,,,,"https://www.glassdoor.com/job-listing/data-analyst-specialist-hipoges-iberia-JV_IC2664239_KO0,23_KE24,38.htm?jl=1008402255186&pos=129&ao=1136043&s=58&guid=000001861f1c5df0ad854b838313ed58&src=GD_JOB_AD&t=SR&vt=w&cs=1_9441fdda&cb=1675559198458&jobListingId=1008402255186&jrtk=3-0-1gofhongk2ea3001-1gofhonh8ia1a800-68865ccbf9133d69-&ctt=1675559217693"
+,,"Ceo","Yannick Bolloré","https://media.glassdoor.com/people/sql/10572/havas-group-ceo1499434649922.png",,,,"Puteaux, France",,"EmployerIndustry","200022","Advertising & Public Relations","Media & Communication","https://media.glassdoor.com/sql/10572/havas-squarelogo-1399059388468.png","Havas Group","$1 to $5 billion (USD)","Media & Communication","10000+ Employees","Company - Public","www.havasgroup.com",,"1978","2022-08-22T00:00:00.000Z","Havas Group","3.9","1008085408446","Agency :
+Havas Media Group Spain
+Job Description Summary :
+About Havas Media Global:
+
+Havas is one of the world’s largest global communications groups, operating in over 100 countries. The Group is made up of two major divisions: Havas Creative Group and Havas Media Group.
+
+We have a multi-disciplinary offering, united under one leadership, all in one building: advertising, media, data, technology, digital, social, mobile, CRM, UX, sports and entertainment, public relations, corporate communications, healthcare, design, research, employer branding and recruitment.
+
+Our mission is to unite brands and people through meaningful connections, driving business success. We are the fastest growing of the global networks and have a challenger brand mentality. We share one common purpose: to bring media and creative closer together for the benefit of our clients.
+
+Havas Media Global is a dedicated team supporting global clients across strategy, insight, media, creative and digital. The culture of our group is best described as dynamic, entrepreneurial, and collaborative.
+Job Description :
+JOB DESCRIPTION
+Within the Finance Department in Spain this position will give support several Global Clients of Havas Media Group in its day to day finance transactions.
+Process monitoring, billing & collection activity, payment to suppliers, treasury and different currencies management will be the main responsibilities.
+He or She will also interact with colleagues from Client Hubs and Spain’s Finance team.
+This position is based in Madrid (Currently enjoying a Hybrid mode of work 3 days at the Havas Village & 2 Days at home)
+ROLE PROFILE
+A young and highly motivated individual focused on starting / developing a finance career within Global and multicultural environment.
+Bachelor Degree in Business Administration and fluent in English both written and speaking are mandatory requirements since most of the day to day work is performed in English. French is also valued.
+Previous work experience of 1-2 years in Finance Departments is desirable although it is not mandatory.
+Highly Energetic and hands on. Open minded and able to interact at all levels of an Organization.
+Hard worker and able to handle with data with high standard of quality. Detail orientated.
+Capable of dealing with multiple deadlines and information requests at the same time.
+Enthusiastic, “can do” attitude and collaborative work-style.
+Advanced user of MS Office, especially Excel
+Skills :
+Contract Type :
+Intern
+Here at Havas across the group we pride ourselves on being committed to offering equal opportunities to all potential employees and have zero tolerance for discrimination. We are an equal opportunity employer and welcome applicants irrespective of age, sex, race, ethnicity, disability and other factors that have no bearing on an individual’s ability to perform their job.
+Due to high volume of applications, only eligible or matching candidates will be contacted by us.Show more  Report","Madrid","Graduate Program INTERNATIONAL FINANCE ANALYST","EUR",,,,,"https://www.glassdoor.com/job-listing/graduate-program-international-finance-analyst-havas-group-JV_IC2664239_KO0,46_KE47,58.htm?jl=1008085408446&pos=126&ao=1136043&s=58&guid=000001861f1c5df0ad854b838313ed58&src=GD_JOB_AD&t=SR&vt=w&cs=1_8e1b9b0c&cb=1675559198458&jobListingId=1008085408446&jrtk=3-0-1gofhongk2ea3001-1gofhonh8ia1a800-70b21c3a0fbbb944-&ctt=1675559216928"
+,,"Ceo","Christoph Schweizer","https://media.glassdoor.com/people/sql/3879/boston-consulting-group-ceo1635774127696.png",,,,"Boston, MA",,"EmployerIndustry","200028","Business Consulting","Management & Consulting","https://media.glassdoor.com/sql/3879/boston-consulting-group-squareLogo-1663615785628.png","Boston Consulting Group","$5 to $10 billion (USD)","Management & Consulting","10000+ Employees","Company - Private","www.bcg.com",,"1963","2022-01-26T00:00:00.000Z","Boston Consulting Group","4.4","1007595300749","WHAT YOU'LL DO
+GAMMA is BCG’s premier data science and advanced analytics capability with 1000+ data scientists, engineers, and analysts globally. Within GAMMA, the Specialty team (GAMMA S) is a hybrid client-facing/consulting-support that leverages available tools and code bases to deliver powerful and specialized insights that help our clients tackle their most pressing business problems. We partner with BCG case teams and practices across the full analytics value chain: framing new business challenges and problems, designing and executing innovative analytical solutions, and interpreting findings for our clients. GeoAnalytics is a sub-team in GAMMA S with expertise in geospatial analytics and tools. Our 30+ member team is a global resource, working with clients in every BCG region and in every industry area. It is a core member of a rapidly growing analytics enterprise at BCG – a constellation of teams focused on driving practical results for BCG clients by applying leading edge technologies.
+
+YOU'RE GOOD AT
+As an Analyst in GeoAnalytics, you will be solving a variety of location-based analytical problems for our clients. You will utilize your knowledge of geospatial data and analytics while using a variety of tools such as Geographic Information Systems (GIS), Python, and visualization/analytical platforms (ex. Tableau, Alteryx). You will leverage a range of techniques such as geospatial clustering, network analysis, location-based optimization and predictive analytics/modeling.
+
+YOU BRING (EXPERIENCE & QUALIFICATIONS)
+Education & Experience:
+1-3 years of relevant work experience in GeoAnalytics with advanced degree preferred
+Relevant degree in geospatial related field such as: Geography, Remote Sensing, Urban Planning, Statistics/GeoStatistics, Applied Mathematics, or Computer Science
+Previous experience working in a global organization or professional services firm is preferred
+Data management skills (e.g. data modeling, data integrity QA/QC, database administration)
+GIS software such as ESRI ArcGIS, QGIS, CARTO
+Data science programming/coding in Python and/or R
+Descriptive statistics and statistical methods (e.g. correlation, regression, clustering, etc.) with applications in machine learning
+Exposure to BI/Data visualization platforms such as Tableau, Power BI, etc.
+Handling, processing, and deriving insights from remotely sensed data preferredShow more  Report","Madrid","Analyst - GeoAnalytics","EUR",,,,,"https://www.glassdoor.com/job-listing/analyst-geoanalytics-boston-consulting-group-JV_IC2664239_KO0,20_KE21,44.htm?jl=1007595300749&pos=108&ao=1136043&s=58&guid=000001861f1c5df0ad854b838313ed58&src=GD_JOB_AD&t=SR&vt=w&cs=1_e5874b77&cb=1675559198457&jobListingId=1007595300749&jrtk=3-0-1gofhongk2ea3001-1gofhonh8ia1a800-73f331246b5f25b4-&ctt=1675559220230"
+,,"Ceo","Ricardo Amper","https://media.glassdoor.com/people/sql/1412239/incode-technologies-ceo1498093747630.png",,,,"San Francisco, CA",,"EmployerIndustry","200060","Computer Hardware Development","Information Technology","https://media.glassdoor.com/sql/1412239/incode-technologies-squarelogo-1574701920042.png","Incode Technologies","$5 to $25 million (USD)","Information Technology","1 to 50 Employees","Company - Private","www.incode.com",,"2015","2022-10-19T00:00:00.000Z","Incode Technologies","4.1","1008219546864","We are a leading digital identity company that believes in a future where customers can perform any transaction without friction. We enable banks, fintech, retailers, marketplaces, healthcare systems, government agencies, and many others to provide more secure and delightful experiences to their customers.
+
+Through our flagship suite, Incode Omni, we offer an end-to-end omnichannel identity platform that helps businesses address all of their identity needs, from digital onboarding and know-your-customer (KYC) to omnichannel authentication and more.
+
+We’re in the process of rapidly scaling our global but close-knit team and we’re looking for leaders who are curious, driven and excited by ownership!
+The Opportunity
+
+We are looking for a Data Labeler.
+
+Working as part of a small team, you have the potential to significantly impact the business. You will have direct access to colleagues at all levels of the organization, and you will embrace the opportunity to add value in this role that offers significant breadth and opportunity for development as our company grows.
+
+Responsibilities:
+You will be using a labeling tool to annotate images critical to training our neural networks.
+You will interact with the machine learning engineers, business analysts and sales team to help us improve on the design of an efficient labeling interface.
+You will be expected to gain basic machine learning knowledge to better understand how the labels are used by our learning algorithms, as this will allow you to make more judgement calls on difficult edge cases that might come up during labeling.
+
+Requirements:
+
+Passionate and curious about technology.
+Able to work in a fast-paced environment, learn quickly and be able to prioritize assignments.
+Proficient computer skills.
+Detail-oriented and patient.
+Communicate clearly using excellent written and verbal skills.
+Must be reliable, have good initiative, committed and quality focused.
+Proficient in Microsoft Office Suite is a plus
+Familiarity with JIRA / Asana is a plus
+Available to work overtime as needed.
+Flexible in hours worked.
+
+What to expect:
+
+Labeling data is a critical ingredient for training powerful Neural Networks, which helps Incode Technologies' machine learning algorithm help build a world of trust.
+Benefits & Perks
+Meaningful equity
+Competitive salary
+Travel – yearly sprints
+Benefit allowance for health insurance, life insurance or pension contribution
+Open vacation policy
+Flexible working hours
+Working as part of a global business with a diverse team
+Opportunity to grow from the ground up with a well funded early-stage start-up
+Working closely with passionate and supportive team members
+
+Our Culture
+Values matter! We share a set of core values and want to hear from you if you believe in:
+Customer centric and impactful products
+Working as part of a bright, passionate, and diverse team
+Simplicity
+Quality
+Bias for action
+Integrity
+Empathy
+Courage
+
+Please note - our commitment to keeping our workforce safe and healthy is of utmost importance. We are working remotely for the time being and have switched to an entirely virtual recruitment process. All of our new recruits will be onboarded safely and are provided with all the tools to work effectively from home!
+
+Incode are an equal opportunity employer, committed to creating a diverse and inclusive work environment. We take great pride in having an inclusive, diverse and global team and are always on the lookout for talented, passionate people from all backgrounds and walks of life.Show more  Report","Madrid","Data Labelling (Spain)","EUR",,,,,"https://www.glassdoor.com/job-listing/data-labelling-spain-incode-technologies-JV_IC2664239_KO0,20_KE21,40.htm?jl=1008219546864&pos=115&ao=1136043&s=58&guid=000001861f1c5df0ad854b838313ed58&src=GD_JOB_AD&t=SR&vt=w&cs=1_4de1e05f&cb=1675559198458&jobListingId=1008219546864&jrtk=3-0-1gofhongk2ea3001-1gofhonh8ia1a800-ccb5801de55c38b2-&ctt=1675559220688"
+,,"Ceo","Borja Aranguren",,,,,"Madrid, Spain",,"EmployerIndustry","200064","Information Technology Support Services","Information Technology","https://media.glassdoor.com/sql/6832555/cobee-squareLogo-1649248355600.png","Cobee","Unknown / Non-Applicable","Information Technology","51 to 200 Employees","Company - Private","www.cobee.io",,"2019","2023-01-23T00:00:00.000Z","Cobee","4.1","1008424859045","About Us & Our Culture
+We, employees, need a much more engaging solution around our compensation, and that’s why Cobee was born. Since we created Cobee back in November 2018, our vision has been unwavering: to become the most desirable solution for employees to get compensated at work. As we fight for that vision, we truly believe that we can improve the overall well-being of employees at the same time that we make them feel more engaged with their companies.
+We began with a single benefit, and today we offer a diverse range of benefits in three countries, with a team of more than 140 talented people across the globe. We have raised more than €55 Million in venture capital funding backed by world-class investors, including a recent €40 Million Series B investment. While much has changed since our humble beginnings, we stay true to what we believe and to our culture:
+Humble Excellence: We are a team committed to excellence and delivering top-notch results. We make informed decisions and collaborate to succeed, while also approaching our endeavors with low ego and open-mindedness. We support our teammates and give them the opportunity to shine.
+Team Innovation: We are trailblazers, disrupting the status quo and creating something new. We embrace risk and challenge ourselves to think creatively, fostering teamwork and diversity to fuel our ideas. Everyone is encouraged to contribute and have a say in decision-making.
+Lean Ownership: Lean Ownership means owning our actions and outcomes, proactively seeking ways to improve the company for the long haul. We prioritize and simplify to move quickly and work with full autonomy to be agile.
+About The Role
+We are seeking a highly analytical and detail-oriented Data Analyst to join
+our team. The Data Analyst will be responsible for collecting, organizing,
+and analyzing large sets of data to inform business decisions and identify
+opportunities for growth. The ideal candidate will have strong technical
+skills, a keen eye for detail, and excellent communication and problem-
+solving abilities.
+This role has to be more than the 60% of their time-based in Madrid, Spain.
+
+The Challenge
+
+Collect, clean, and organize large sets of data from various sources
+Analyze data to identify trends, patterns, and insights
+Develop and maintain reports and dashboards to track key
+performance indicators (KPIs)
+Collaborate with cross-functional teams to identify data-driven
+opportunities for growth and optimization
+Communicate findings and recommendations to stakeholders through
+clear and concise reports and presentations
+Stay up-to-date with industry trends and emerging technologies to
+inform data strategy and analysis techniques.
+If you are passionate about data and excited to make an impact in a rapidly growing company, we encourage you to apply.
+Overall, the role of the Analytics team in Cobee is to leverage data and
+analytics to drive business growth and success on a global scale.
+This is you
+
+Bachelor's degree in a related field (e.g. Computer Science,
+Mathematics, Statistics, Economics, Business Administration) OR a
+master's degree in a relevant field OR equivalent experience gained
+through a private bootcamp or other professional development
+program.
+2+ years of experience in a data analysis or similar role.
+Strong technical skills, including proficiency in SQL and at least one
+data visualization tool (e.g. Tableau, Power BI)
+Excellent communication and problem-solving abilities.
+Self-starter with the ability to work independently and prioritize tasks effectively.
+
+Nice to Have
+
+Experience working with large datasets in a startup environment
+Proficiency in a programming language (e.g. Python, R)
+Experience with data modeling and machine learning techniques
+
+Why should you join Cobee?
+
+Excellence - We are driven by building great and impactful solutions to change the employee benefits industry in the long run. In everything we do, we go for the excellence approach.
+Sustainable growth - We always keep a bootstrap mindset while we keep growing! We do this in a very sustainable way and with a lot of substance: growth and profitability are not a contradiction, and we love to find the right balance.
+Non-hierarchical innovators - We listen to everyone. No matter their position. We try to ensure that the people who implement are part of the decision-making.
+Flexible Benefits - Paid flexible benefits (meals, transportation, nurseries) with paid health insurance and a specific budget to spend in an annual budget for training.
+We are willing to meet you! Cobee embraces diversity and equal opportunity. We are committed to building a team with diverse backgrounds, perspectives, and skills.Show more  Report","Madrid","Data Analyst","EUR",,,,,"https://www.glassdoor.com/job-listing/data-analyst-cobee-JV_IC2664239_KO0,12_KE13,18.htm?jl=1008424859045&pos=127&ao=1136043&s=58&guid=000001861f1c5df0ad854b838313ed58&src=GD_JOB_AD&t=SR&vt=w&cs=1_c27d5dff&cb=1675559198459&jobListingId=1008424859045&jrtk=3-0-1gofhongk2ea3001-1gofhonh8ia1a800-fa21543970aa1f1d-&ctt=1675559222122"
+,,"Ceo","Jeremy Palmer and Alex Singla","https://media.glassdoor.com/people/sql/1508182/quantumblack-ceo1583437961412.png",,,,"Boston, MA",,"EmployerIndustry","200028","Business Consulting","Management & Consulting","https://media.glassdoor.com/sql/1508182/quantumblack-squarelogo-1532292925406.png","McKinsey & Company","Unknown / Non-Applicable","Management & Consulting","201 to 500 Employees","Company - Private","www.quantumblack.com",,"2009","2022-04-06T00:00:00.000Z","McKinsey & Company","4.4","1007770664355","Who You'll Work With
+You will be based in our Madrid office as part of our Private Equity & Principal Investors (PEPI) practice. Our practice is the world’s leading advisor to the PEPI industry and a high growth area for the firm, working with many of the most significant global and local private investors and their portfolio companies.
+You will work in teams and directly with our clients. You will also work with the wider McKinsey network including a range of experts in the firm, from industry and functional experts to data scientists to researchers to software and app designers.
+McKinsey believes in strengths-based development and coaching, and you’ll receive frequent mentoring from colleagues. This will include a senior colleague from your office or practice who will help you grow and achieve your career goals. Additionally, you will have a professional development manager who will manage staffing to help you choose projects based on your priorities as well as the needs of client service teams. When you join McKinsey, you are joining a firm whose culture is distinctive and inclusive. We will accelerate your development as a leader to create positive, enduring change in the world.
+What You'll Do
+You will work in teams to support private investor clients and their portfolio companies throughout the deal lifecycle including diligence, value creation topics and exit support.
+In this role, you will have the opportunity to assess and identify market attractiveness, provide targeted information and specialized financial analysis on potential acquisitions as well as prepare and deliver high-impact communication of your synthesized findings. You will also have the opportunity to work directly with portfolio companies on their value creation agenda, spanning a diverse set of topics as well as be a subject matter expert on topics related to our service to investors. You will be recognized as a valuable resource of experience, information and expertise both inside the firm and by our clients.
+You will receive training on how to better structure ambiguous problems and take action to solve them as well as synthesize clear takeaways from complex information into clear takeaways and recommendations using both qualitative and quantitative method. You will work effectively with diverse teams to come up with the best solution and move people and organizations to act. You will establish trust-based relationships with clients to better-serve their organizations, communicate effectively with all audiences including senior leaders and develop your leadership style, leveraging your own passions, strengths and personal values.
+During your first few years with the firm, you will serve as a business analyst on multiple client engagements and work with a number of colleagues and clients in a range of private investor settings across different industry and functional areas and develop significant business experience as well as an investor mindset. You will likely intersect with many elements of our firm’s work including digital, implementation, and tech and analytics capabilities.
+Your role differs from McKinsey’s generalist business analyst role in its focus. Your role will focus entirely on serving investor clients and their portfolio companies (though because our clients invest across sectors and types of companies, the role still offers exposure to a wide variety of sectors and functional levers). PEPI consultants will be staffed full time to client engagements.
+Qualifications
+Undergraduate degree or master’s degree or 1+ years of work experience after completing your undergraduate degree
+Previous experience in investment bank, private equity or venture capital environment with exposure to transactions and/or working in a private equity or venture capital backed company is a plus
+Investor mindset and experience or strong interest in private equity, real estate and/or venture capital
+Ability to work collaboratively in a team and create an inclusive environment with people at all levels of an organization
+Capability to drive an independent workstream in the context of a broader team project
+Comfort with ambiguous, ever-changing situations
+Ability to break down and solve problems through quantitative thinking and analysis
+Ability to communicate effectively, both verbally and in writing, in Spanish and EnglishShow more  Report","Madrid","Business Analyst - Private Equity & Principal Investors","EUR",,,,,"https://www.glassdoor.com/job-listing/business-analyst-private-equity-principal-investors-mckinsey-company-JV_IC2664239_KO0,51_KE52,68.htm?jl=1007770664355&pos=118&ao=1136043&s=58&guid=000001861f1c5df0ad854b838313ed58&src=GD_JOB_AD&t=SR&vt=w&cs=1_c3b0cc17&cb=1675559198458&jobListingId=1007770664355&jrtk=3-0-1gofhongk2ea3001-1gofhonh8ia1a800-52b169393199e92f-&ctt=1675559221946"
